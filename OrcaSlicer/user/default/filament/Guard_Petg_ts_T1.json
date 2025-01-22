@@ -1,0 +1,40 @@
+{
+    "enable_pressure_advance": [
+        "1"
+    ],
+    "filament_flow_ratio": [
+        "1.1"
+    ],
+    "filament_retract_when_changing_layer": [
+        "0"
+    ],
+    "filament_settings_id": [
+        "Guard_Petg_ts_T1"
+    ],
+    "filament_shrink": [
+        "98.9%"
+    ],
+    "filament_wipe": [
+        "0"
+    ],
+    "from": "User",
+    "hot_plate_temp": [
+        "50"
+    ],
+    "hot_plate_temp_initial_layer": [
+        "50"
+    ],
+    "inherits": "BIQU Generic PETG",
+    "is_custom_defined": "0",
+    "name": "Guard_Petg_ts_T1",
+    "nozzle_temperature": [
+        "240"
+    ],
+    "nozzle_temperature_initial_layer": [
+        "240"
+    ],
+    "pressure_advance": [
+        "1.15"
+    ],
+    "version": "2.0.2.0"
+}

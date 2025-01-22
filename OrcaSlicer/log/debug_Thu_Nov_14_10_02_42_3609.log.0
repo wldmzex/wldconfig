@@ -1,0 +1,30 @@
+[error]	2024-11-14 10:02:46.365587[Thread 0x000074e3a7c88c40]:calc_exclude_triangles:Unable to create exclude triangles
+[error]	2024-11-14 10:02:46.386853[Thread 0x000074e323e006c0]:Unable to open the file/home/wldmzex/wldModelWork/wldmodelwork/art/1.obj
+[error]	2024-11-14 10:02:46.387096[Thread 0x000074e3150006c0]:Unable to open the file/home/wldmzex/wldModelWork/wldmodelwork/project/PortablePlasticConstruct/stl/beitfixer.STL
+[error]	2024-11-14 10:02:46.387566[Thread 0x000074e3a7c88c40]:Unable to open the file/home/wldmzex/wldModelWork/wldmodelwork/art/sb.obj
+[error]	2024-11-14 10:02:46.387696[Thread 0x000074e314a006c0]:Unable to open the file/home/wldmzex/wldModelWork/wldmodelwork/project/PortablePlasticConstruct/stl/4040FlowGuide.STL
+[error]	2024-11-14 10:02:46.387945[Thread 0x000074e329c006c0]:Unable to open the file/home/wldmzex/wldModelWork/wldmodelwork/project/PortablePlasticConstruct/tool/x_trace_installer.STL
+[error]	2024-11-14 10:02:46.388154[Thread 0x000074e323e006c0]:Unable to open the file/home/wldmzex/wldModelWork/wldmodelwork/project/PortablePlasticConstruct/stl/y_wheel.STL
+[error]	2024-11-14 10:02:46.388386[Thread 0x000074e392e006c0]:Unable to open the file/home/wldmzex/wldModelWork/wldmodelwork/project/PortablePlasticConstruct/stl/ext_base.STL
+[error]	2024-11-14 10:02:46.388425[Thread 0x000074e3156006c0]:Unable to open the file/home/wldmzex/wldModelWork/wldmodelwork/project/PortablePlasticConstruct/stl/HeatBead_base.STL
+[error]	2024-11-14 10:02:46.388446[Thread 0x000074e30be006c0]:Unable to open the file/home/wldmzex/wldModelWork/wldmodelwork/project/PortablePlasticConstruct/stl/y_motor_bracket.STL
+[error]	2024-11-14 10:02:46.388662[Thread 0x000074e3150006c0]:Unable to open the file/home/wldmzex/wldModelWork/wldmodelwork/project/PortablePlasticConstruct/stl/ARM_CONNECT_PART.STL
+[error]	2024-11-14 10:02:46.389233[Thread 0x000074e30be006c0]:Unable to open the file/home/wldmzex/wldModelWork/wldmodelwork/project/PortablePlasticConstruct/stl/X_switch.STL
+[error]	2024-11-14 10:02:46.389442[Thread 0x000074e329c006c0]:Unable to open the file/home/wldmzex/wldModelWork/untitled.stl
+[error]	2024-11-14 10:02:46.389567[Thread 0x000074e323e006c0]:Unable to open the file/home/wldmzex/wldModelWork/wldmodelwork/project/PortablePlasticConstruct/stl/z_motor_base.STL
+[error]	2024-11-14 10:02:46.389973[Thread 0x000074e3156006c0]:Unable to open the file/home/wldmzex/wldModelWork/wldmodelwork/project/PortablePlasticConstruct/stl/Model_Fan.STL
+[error]	2024-11-14 10:02:46.392420[Thread 0x000074e314a006c0]:Unable to open the file/home/wldmzex/Downloads/gw.STL
+[warning]	2024-11-14 10:02:47.099662[Thread 0x000074e3a7c88c40]:10时02分47秒: Warning: Error running JavaScript: Unsupported result type
+[warning]	2024-11-14 10:02:47.102835[Thread 0x000074e3a7c88c40]:10时02分47秒: Warning: Error running JavaScript: Unsupported result type
+[warning]	2024-11-14 10:02:47.105298[Thread 0x000074e3a7c88c40]:10时02分47秒: Warning: Error running JavaScript: Unsupported result type
+[warning]	2024-11-14 10:02:47.108356[Thread 0x000074e3a7c88c40]:10时02分47秒: Warning: Error running JavaScript: Unsupported result type
+[error]	2024-11-14 10:02:48.862745[Thread 0x000074e3a7c88c40]:calc_exclude_triangles:Unable to create exclude triangles
+[warning]	2024-11-14 10:02:48.925264[Thread 0x000074e3a7c88c40]:get_version, get_version not supported,return 00.00.00.00!
+[error]	2024-11-14 10:02:50.298291[Thread 0x000074e3a7c88c40]:calc_exclude_triangles:Unable to create exclude triangles
+[error]	2024-11-14 10:03:40.387054[Thread 0x000074e30ae006c0]:OctoPrint: Error getting version: curl:Couldn't connect to server:
+Failed to connect to 192.168.2.195 port 13080: 没有到主机的路由
+[Error 7], HTTP 0, body: ``
+[error]	2024-11-14 10:19:46.087053[Thread 0x000074e3a7c88c40]:calc_exclude_triangles:Unable to create exclude triangles
+[error]	2024-11-14 10:30:05.511092[Thread 0x000074e3a7c88c40]:tree_sel_change_delayedcan not find page with current selection 
+[error]	2024-11-14 10:30:42.676430[Thread 0x000074e3a7c88c40]:tree_sel_change_delayedcan not find page with current selection 
+[error]	2024-11-14 10:31:15.491860[Thread 0x000074e3a7c88c40]:calc_exclude_triangles:Unable to create exclude triangles

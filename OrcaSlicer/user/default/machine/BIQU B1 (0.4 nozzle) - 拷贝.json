@@ -1,0 +1,17 @@
+{
+    "from": "User",
+    "gcode_flavor": "klipper",
+    "inherits": "BIQU B1 (0.4 nozzle)",
+    "is_custom_defined": "0",
+    "machine_max_acceleration_x": [
+        "800"
+    ],
+    "machine_max_acceleration_y": [
+        "800"
+    ],
+    "name": "BIQU B1 (0.4 nozzle) - 拷贝",
+    "print_host": "192.168.2.238",
+    "printer_settings_id": "BIQU B1 (0.4 nozzle) - 拷贝",
+    "printhost_apikey": "066a863e902b40508508ac1186d8c5ae",
+    "version": "2.0.2.0"
+}

@@ -1,0 +1,128 @@
+[error]	2024-11-25 21:39:39.338075[Thread 0x000079468fd4fc40]:Unable to load bed model: /tmp/.mount_OrcaSl6nctyr/resources/profiles/BIQU/biqu_b1_buildplate_model.stl
+[error]	2024-11-25 21:39:39.347743[Thread 0x000079468fd4fc40]:calc_exclude_triangles:Unable to create exclude triangles
+[error]	2024-11-25 21:39:39.357922[Thread 0x000079468fd4fc40]:Unable to load bed texture: /tmp/.mount_OrcaSl6nctyr/resources/profiles/BIQU/biqu_b1_buildplate_texture.png
+[error]	2024-11-25 21:39:39.370543[Thread 0x0000794613ffd6c0]:Unable to open the file/home/wldmzex/wldModelWork/wldmodelwork/art/1.obj
+[error]	2024-11-25 21:39:39.370631[Thread 0x0000794608bfe6c0]:Unable to open the file/home/wldmzex/wldModelWork/wldmodelwork/project/PortablePlasticConstruct/stl/4040FlowGuide.STL
+[error]	2024-11-25 21:39:39.370810[Thread 0x0000794608fff6c0]:Unable to open the file/home/wldmzex/wldModelWork/wldmodelwork/project/wldIOTdevice_24w1122/RELAY_UP.STEP
+[error]	2024-11-25 21:39:39.370831[Thread 0x0000794612ffb6c0]:Unable to open the file/home/wldmzex/wldModelWork/wldmodelwork/project/PortablePlasticConstruct/stl/z_motor_base.STL
+[error]	2024-11-25 21:39:39.370833[Thread 0x0000794613ffd6c0]:Unable to open the file/home/wldmzex/wldModelWork/wldmodelwork/project/PortablePlasticConstruct/stl/ext_base.STL
+[error]	2024-11-25 21:39:39.370868[Thread 0x00007946127fa6c0]:Unable to open the file/home/wldmzex/wldModelWork/wldmodelwork/project/PortablePlasticConstruct/stl/ARM_CONNECT_PART.STL
+[error]	2024-11-25 21:39:39.370877[Thread 0x00007946087fd6c0]:Unable to open the file/home/wldmzex/Downloads/gw.STL
+[error]	2024-11-25 21:39:39.370914[Thread 0x000079468fd4fc40]:Unable to open the file/home/wldmzex/wldModelWork/wldmodelwork/project/wldIOTdevice_24w1122/WINDOWMANAGER_GEAR.STEP
+[error]	2024-11-25 21:39:39.370980[Thread 0x0000794613ffd6c0]:Unable to open the file/home/wldmzex/wldModelWork/wldmodelwork/project/PortablePlasticConstruct/stl/X_switch.STL
+[error]	2024-11-25 21:39:39.371032[Thread 0x0000794608bfe6c0]:Unable to open the file/home/wldmzex/wldModelWork/wldmodelwork/project/PortablePlasticConstruct/stl/y_motor_bracket.STL
+[error]	2024-11-25 21:39:39.371078[Thread 0x0000794612ffb6c0]:Unable to open the file/home/wldmzex/wldModelWork/wldmodelwork/project/PortablePlasticConstruct/stl/Model_Fan.STL
+[error]	2024-11-25 21:39:39.371098[Thread 0x00007946087fd6c0]:Unable to open the file/home/wldmzex/wldModelWork/untitled.stl
+[error]	2024-11-25 21:39:39.370980[Thread 0x00007946127fa6c0]:Unable to open the file/home/wldmzex/wldModelWork/wldmodelwork/art/sb.obj
+[error]	2024-11-25 21:39:39.371287[Thread 0x00007946137fc6c0]:Unable to open the file/home/wldmzex/wldModelWork/wldmodelwork/project/PortablePlasticConstruct/stl/HeatBead_base.STL
+[error]	2024-11-25 21:39:39.486444[Thread 0x000079468fd4fc40]:Unable to load bed model: /tmp/.mount_OrcaSl6nctyr/resources/profiles/BIQU/biqu_b1_buildplate_model.stl
+[warning]	2024-11-25 21:39:40.019887[Thread 0x000079468fd4fc40]:21时39分40秒: Warning: Error running JavaScript: Unsupported result type
+[warning]	2024-11-25 21:39:40.060443[Thread 0x000079468fd4fc40]:21时39分40秒: Warning: Error running JavaScript: Unsupported result type
+[warning]	2024-11-25 21:39:40.063856[Thread 0x000079468fd4fc40]:21时39分40秒: Warning: Error running JavaScript: Unsupported result type
+[warning]	2024-11-25 21:39:40.262320[Thread 0x000079468fd4fc40]:21时39分40秒: Warning: Error running JavaScript: Unsupported result type
+[error]	2024-11-25 21:39:42.034875[Thread 0x000079468fd4fc40]:calc_exclude_triangles:Unable to create exclude triangles
+[error]	2024-11-25 21:39:42.062750[Thread 0x000079468fd4fc40]:Unable to load bed model: /tmp/.mount_OrcaSl6nctyr/resources/profiles/BIQU/biqu_b1_buildplate_model.stl
+[error]	2024-11-25 21:39:42.084282[Thread 0x000079468fd4fc40]:Unable to load bed model: /tmp/.mount_OrcaSl6nctyr/resources/profiles/BIQU/biqu_b1_buildplate_model.stl
+[warning]	2024-11-25 21:39:42.088389[Thread 0x000079468fd4fc40]:get_version, get_version not supported,return 00.00.00.00!
+[error]	2024-11-25 21:39:43.091561[Thread 0x00007945feffd6c0]:Error getting: `check_new_version_sf`: HTTP 0, curl:Timeout was reached:
+Operation timed out after 1000 milliseconds with 0 out of 0 bytes received
+[Error 28]
+[error]	2024-11-25 21:39:44.225569[Thread 0x000079468fd4fc40]:calc_exclude_triangles:Unable to create exclude triangles
+[error]	2024-11-25 21:39:44.253758[Thread 0x000079468fd4fc40]:Unable to load bed model: /tmp/.mount_OrcaSl6nctyr/resources/profiles/BIQU/biqu_b1_buildplate_model.stl
+[error]	2024-11-25 21:39:44.290716[Thread 0x000079468fd4fc40]:Unable to load bed model: /tmp/.mount_OrcaSl6nctyr/resources/profiles/BIQU/biqu_b1_buildplate_model.stl
+[error]	2024-11-25 21:39:44.821546[Thread 0x000079468fd4fc40]:Unable to load bed model: /tmp/.mount_OrcaSl6nctyr/resources/profiles/BIQU/biqu_b1_buildplate_model.stl
+[error]	2024-11-25 21:39:45.324060[Thread 0x000079467bfff6c0]:HMSQuery: update hms info error = curl:SSL connect error:
+OpenSSL SSL_connect: SSL_ERROR_SYSCALL in connection to e.bambulab.com:443 
+[Error 35], body = , status = 0
+[error]	2024-11-25 21:39:48.562345[Thread 0x00007945ff7fe6c0]:[Orca Updater]: status=0, error=curl:SSL connect error:
+OpenSSL SSL_connect: SSL_ERROR_SYSCALL in connection to api.bambulab.cn:443 
+[Error 35], body=
+[error]	2024-11-25 21:39:48.562443[Thread 0x000079467bfff6c0]:HMSQuery: update hms info error = curl:SSL connect error:
+OpenSSL SSL_connect: SSL_ERROR_SYSCALL in connection to e.bambulab.com:443 
+[Error 35], body = , status = 0
+[error]	2024-11-25 21:40:36.935224[Thread 0x000079468fd4fc40]:Unable to open the file/home/wldmzex/wldModelWork/wldmodelwork/project/PortablePlasticConstruct/stl/ARM_CONNECT_PART.STEP
+[error]	2024-11-25 21:40:44.725695[Thread 0x000079468fd4fc40]:Unable to load bed model: /tmp/.mount_OrcaSl6nctyr/resources/profiles/BIQU/biqu_b1_buildplate_model.stl
+[error]	2024-11-25 21:40:57.284247[Thread 0x000079468fd4fc40]:Unable to load bed model: /tmp/.mount_OrcaSl6nctyr/resources/profiles/BIQU/biqu_b1_buildplate_model.stl
+[error]	2024-11-25 21:42:19.500273[Thread 0x000079468fd4fc40]:Unable to load bed model: /tmp/.mount_OrcaSl6nctyr/resources/profiles/BIQU/biqu_b1_buildplate_model.stl
+[error]	2024-11-25 21:42:31.872619[Thread 0x000079468fd4fc40]:calc_exclude_triangles:Unable to create exclude triangles
+[error]	2024-11-25 21:42:31.895380[Thread 0x000079468fd4fc40]:Unable to load bed model: /tmp/.mount_OrcaSl6nctyr/resources/profiles/BIQU/biqu_b1_buildplate_model.stl
+[error]	2024-11-25 21:42:32.099615[Thread 0x000079468fd4fc40]:calc_exclude_triangles:Unable to create exclude triangles
+[error]	2024-11-25 21:42:32.101262[Thread 0x000079468fd4fc40]:Unable to load bed model: /tmp/.mount_OrcaSl6nctyr/resources/profiles/BIQU/biqu_b1_buildplate_model.stl
+[error]	2024-11-25 21:42:32.141818[Thread 0x000079468fd4fc40]:Unable to load bed model: /tmp/.mount_OrcaSl6nctyr/resources/profiles/BIQU/biqu_b1_buildplate_model.stl
+[error]	2024-11-25 21:42:32.216880[Thread 0x000079468fd4fc40]:Unable to load bed model: /tmp/.mount_OrcaSl6nctyr/resources/profiles/BIQU/biqu_b1_buildplate_model.stl
+[error]	2024-11-25 21:43:35.781812[Thread 0x000079468fd4fc40]:tree_sel_change_delayedcan not find page with current selection 
+[error]	2024-11-25 21:43:43.307651[Thread 0x000079468fd4fc40]:tree_sel_change_delayedcan not find page with current selection 
+[error]	2024-11-25 21:43:43.340842[Thread 0x000079468fd4fc40]:tree_sel_change_delayedcan not find page with current selection 
+[error]	2024-11-25 21:43:44.404261[Thread 0x000079468fd4fc40]:tree_sel_change_delayedcan not find page with current selection 
+[error]	2024-11-25 21:44:24.427416[Thread 0x000079468fd4fc40]:tree_sel_change_delayedcan not find page with current selection 
+[error]	2024-11-25 21:44:28.384500[Thread 0x000079468fd4fc40]:tree_sel_change_delayedcan not find page with current selection 
+[error]	2024-11-25 21:47:25.005538[Thread 0x000079468fd4fc40]:Unable to load bed model: /tmp/.mount_OrcaSl6nctyr/resources/profiles/BIQU/biqu_b1_buildplate_model.stl
+[error]	2024-11-25 21:47:25.036294[Thread 0x000079468fd4fc40]:tree_sel_change_delayedcan not find page with current selection 
+[error]	2024-11-25 21:48:18.458104[Thread 0x000079468fd4fc40]:tree_sel_change_delayedcan not find page with current selection 
+[error]	2024-11-25 21:48:21.119163[Thread 0x000079468fd4fc40]:tree_sel_change_delayedcan not find page with current selection 
+[error]	2024-11-25 21:50:17.278124[Thread 0x000079468fd4fc40]:Unable to load bed model: /tmp/.mount_OrcaSl6nctyr/resources/profiles/BIQU/biqu_b1_buildplate_model.stl
+[error]	2024-11-25 21:50:17.309351[Thread 0x000079468fd4fc40]:tree_sel_change_delayedcan not find page with current selection 
+[error]	2024-11-25 21:50:27.046691[Thread 0x000079468fd4fc40]:tree_sel_change_delayedcan not find page with current selection 
+[error]	2024-11-25 21:50:32.857261[Thread 0x000079468fd4fc40]:tree_sel_change_delayedcan not find page with current selection 
+[error]	2024-11-25 21:50:34.076016[Thread 0x000079468fd4fc40]:tree_sel_change_delayedcan not find page with current selection 
+[error]	2024-11-25 21:50:40.520620[Thread 0x000079468fd4fc40]:tree_sel_change_delayedcan not find page with current selection 
+[error]	2024-11-25 21:50:48.623327[Thread 0x000079468fd4fc40]:tree_sel_change_delayedcan not find page with current selection 
+[error]	2024-11-25 21:50:50.961699[Thread 0x000079468fd4fc40]:tree_sel_change_delayedcan not find page with current selection 
+[error]	2024-11-25 21:50:55.968347[Thread 0x000079468fd4fc40]:tree_sel_change_delayedcan not find page with current selection 
+[error]	2024-11-25 21:50:57.150184[Thread 0x000079468fd4fc40]:tree_sel_change_delayedcan not find page with current selection 
+[error]	2024-11-25 21:52:05.455686[Thread 0x000079468fd4fc40]:tree_sel_change_delayedcan not find page with current selection 
+[error]	2024-11-25 21:52:17.526728[Thread 0x000079468fd4fc40]:tree_sel_change_delayedcan not find page with current selection 
+[error]	2024-11-25 21:52:19.374517[Thread 0x000079468fd4fc40]:tree_sel_change_delayedcan not find page with current selection 
+[error]	2024-11-25 21:52:35.790983[Thread 0x000079468fd4fc40]:tree_sel_change_delayedcan not find page with current selection 
+[error]	2024-11-25 21:53:14.368952[Thread 0x000079468fd4fc40]:tree_sel_change_delayedcan not find page with current selection 
+[error]	2024-11-25 21:53:15.626739[Thread 0x000079468fd4fc40]:tree_sel_change_delayedcan not find page with current selection 
+[error]	2024-11-25 21:53:29.869066[Thread 0x000079468fd4fc40]:tree_sel_change_delayedcan not find page with current selection 
+[error]	2024-11-25 21:53:49.763223[Thread 0x000079468fd4fc40]:tree_sel_change_delayedcan not find page with current selection 
+[error]	2024-11-25 21:53:53.198426[Thread 0x000079468fd4fc40]:Unable to load bed model: /tmp/.mount_OrcaSl6nctyr/resources/profiles/BIQU/biqu_b1_buildplate_model.stl
+[error]	2024-11-25 21:53:53.226689[Thread 0x000079468fd4fc40]:tree_sel_change_delayedcan not find page with current selection 
+[error]	2024-11-25 21:53:53.510369[Thread 0x000079468fd4fc40]:tree_sel_change_delayedcan not find page with current selection 
+[error]	2024-11-25 21:53:57.795720[Thread 0x000079468fd4fc40]:tree_sel_change_delayedcan not find page with current selection 
+[error]	2024-11-25 21:53:58.130737[Thread 0x000079468fd4fc40]:tree_sel_change_delayedcan not find page with current selection 
+[error]	2024-11-25 21:54:05.825484[Thread 0x000079468fd4fc40]:tree_sel_change_delayedcan not find page with current selection 
+[error]	2024-11-25 21:54:10.284606[Thread 0x000079468fd4fc40]:tree_sel_change_delayedcan not find page with current selection 
+[error]	2024-11-25 21:54:11.022728[Thread 0x000079468fd4fc40]:tree_sel_change_delayedcan not find page with current selection 
+[error]	2024-11-25 21:54:18.927286[Thread 0x000079468fd4fc40]:tree_sel_change_delayedcan not find page with current selection 
+[error]	2024-11-25 21:54:33.606331[Thread 0x000079468fd4fc40]:Unable to load bed model: /tmp/.mount_OrcaSl6nctyr/resources/profiles/BIQU/biqu_b1_buildplate_model.stl
+[error]	2024-11-25 21:54:33.635445[Thread 0x000079468fd4fc40]:tree_sel_change_delayedcan not find page with current selection 
+[error]	2024-11-25 21:54:34.481826[Thread 0x000079468fd4fc40]:tree_sel_change_delayedcan not find page with current selection 
+[error]	2024-11-25 21:55:41.123804[Thread 0x000079468fd4fc40]:tree_sel_change_delayedcan not find page with current selection 
+[error]	2024-11-25 21:57:14.705937[Thread 0x000079468fd4fc40]:tree_sel_change_delayedcan not find page with current selection 
+[error]	2024-11-25 21:57:46.334510[Thread 0x000079468fd4fc40]:Unable to load bed model: /tmp/.mount_OrcaSl6nctyr/resources/profiles/BIQU/biqu_b1_buildplate_model.stl
+[error]	2024-11-25 21:57:46.362510[Thread 0x000079468fd4fc40]:tree_sel_change_delayedcan not find page with current selection 
+[error]	2024-11-25 21:58:43.207074[Thread 0x000079468fd4fc40]:tree_sel_change_delayedcan not find page with current selection 
+[error]	2024-11-25 21:59:45.304235[Thread 0x000079468fd4fc40]:tree_sel_change_delayedcan not find page with current selection 
+[error]	2024-11-25 22:00:00.037812[Thread 0x000079468fd4fc40]:tree_sel_change_delayedcan not find page with current selection 
+[error]	2024-11-25 22:03:56.805584[Thread 0x000079468fd4fc40]:tree_sel_change_delayedcan not find page with current selection 
+[error]	2024-11-25 22:04:02.321767[Thread 0x000079468fd4fc40]:tree_sel_change_delayedcan not find page with current selection 
+[error]	2024-11-25 22:04:54.271394[Thread 0x000079468fd4fc40]:tree_sel_change_delayedcan not find page with current selection 
+[error]	2024-11-25 22:05:38.429410[Thread 0x000079468fd4fc40]:tree_sel_change_delayedcan not find page with current selection 
+[error]	2024-11-25 22:10:14.453234[Thread 0x000079468fd4fc40]:tree_sel_change_delayedcan not find page with current selection 
+[error]	2024-11-25 22:10:15.929509[Thread 0x000079468fd4fc40]:tree_sel_change_delayedcan not find page with current selection 
+[error]	2024-11-25 22:10:25.684511[Thread 0x000079468fd4fc40]:tree_sel_change_delayedcan not find page with current selection 
+[error]	2024-11-25 22:10:45.710190[Thread 0x000079468fd4fc40]:Unable to load bed model: /tmp/.mount_OrcaSl6nctyr/resources/profiles/BIQU/biqu_b1_buildplate_model.stl
+[error]	2024-11-25 22:10:47.667801[Thread 0x000079468fd4fc40]:tree_sel_change_delayedcan not find page with current selection 
+[error]	2024-11-25 22:11:15.666817[Thread 0x000079468fd4fc40]:tree_sel_change_delayedcan not find page with current selection 
+[error]	2024-11-25 22:11:34.019322[Thread 0x000079468fd4fc40]:tree_sel_change_delayedcan not find page with current selection 
+[error]	2024-11-25 22:11:34.137304[Thread 0x000079468fd4fc40]:tree_sel_change_delayedcan not find page with current selection 
+[error]	2024-11-25 22:11:35.086324[Thread 0x000079468fd4fc40]:tree_sel_change_delayedcan not find page with current selection 
+[error]	2024-11-25 22:11:41.377347[Thread 0x000079468fd4fc40]:tree_sel_change_delayedcan not find page with current selection 
+[error]	2024-11-25 22:11:45.668526[Thread 0x000079468fd4fc40]:Unable to load bed model: /tmp/.mount_OrcaSl6nctyr/resources/profiles/BIQU/biqu_b1_buildplate_model.stl
+[error]	2024-11-25 22:12:31.894089[Thread 0x000079468fd4fc40]:tree_sel_change_delayedcan not find page with current selection 
+[error]	2024-11-25 22:12:41.615634[Thread 0x000079468fd4fc40]:tree_sel_change_delayedcan not find page with current selection 
+[error]	2024-11-25 22:12:44.664743[Thread 0x000079468fd4fc40]:tree_sel_change_delayedcan not find page with current selection 
+[error]	2024-11-25 22:12:59.685925[Thread 0x000079468fd4fc40]:Unable to load bed model: /tmp/.mount_OrcaSl6nctyr/resources/profiles/BIQU/biqu_b1_buildplate_model.stl
+[error]	2024-11-25 22:13:20.599915[Thread 0x000079468fd4fc40]:tree_sel_change_delayedcan not find page with current selection 
+[error]	2024-11-25 22:13:23.068781[Thread 0x000079468fd4fc40]:tree_sel_change_delayedcan not find page with current selection 
+[error]	2024-11-25 22:13:26.886637[Thread 0x000079468fd4fc40]:Unable to load bed model: /tmp/.mount_OrcaSl6nctyr/resources/profiles/BIQU/biqu_b1_buildplate_model.stl
+[error]	2024-11-25 22:13:26.966619[Thread 0x000079468fd4fc40]:tree_sel_change_delayedcan not find page with current selection 
+[error]	2024-11-25 22:13:27.297834[Thread 0x000079468fd4fc40]:tree_sel_change_delayedcan not find page with current selection 
+[error]	2024-11-25 22:13:41.923918[Thread 0x000079468fd4fc40]:tree_sel_change_delayedcan not find page with current selection 
+[error]	2024-11-25 22:13:49.932473[Thread 0x000079468fd4fc40]:Unable to load bed model: /tmp/.mount_OrcaSl6nctyr/resources/profiles/BIQU/biqu_b1_buildplate_model.stl
+[error]	2024-11-25 22:14:27.550799[Thread 0x0000794679c236c0]:call_process:got cancelled exception
+[error]	2024-11-26 08:08:53.952656[Thread 0x000079468fd4fc40]:calc_exclude_triangles:Unable to create exclude triangles
+[error]	2024-11-26 08:08:53.995796[Thread 0x000079468fd4fc40]:Unable to load bed model: /tmp/.mount_OrcaSl6nctyr/resources/profiles/BIQU/biqu_b1_buildplate_model.stl

@@ -1,0 +1,29 @@
+[error]	2024-11-16 00:11:03.141129[Thread 0x00007acfb1313c40]:calc_exclude_triangles:Unable to create exclude triangles
+[error]	2024-11-16 00:11:03.163746[Thread 0x00007acf164006c0]:Unable to open the file/home/wldmzex/wldModelWork/wldmodelwork/project/PortablePlasticConstruct/stl/beitfixer.STL
+[error]	2024-11-16 00:11:03.163958[Thread 0x00007acfb1313c40]:Unable to open the file/home/wldmzex/wldModelWork/wldmodelwork/art/sb.obj
+[error]	2024-11-16 00:11:03.164845[Thread 0x00007acf164006c0]:Unable to open the file/home/wldmzex/wldModelWork/wldmodelwork/project/PortablePlasticConstruct/stl/y_wheel.STL
+[error]	2024-11-16 00:11:03.164950[Thread 0x00007acf2e0006c0]:Unable to open the file/home/wldmzex/wldModelWork/wldmodelwork/project/PortablePlasticConstruct/stl/ARM_CONNECT_PART.STL
+[error]	2024-11-16 00:11:03.165016[Thread 0x00007acf170006c0]:Unable to open the file/home/wldmzex/wldModelWork/wldmodelwork/project/PortablePlasticConstruct/stl/HeatBead_base.STL
+[error]	2024-11-16 00:11:03.165028[Thread 0x00007acf15e006c0]:Unable to open the file/home/wldmzex/wldModelWork/wldmodelwork/project/PortablePlasticConstruct/stl/ext_base.STL
+[error]	2024-11-16 00:11:03.165426[Thread 0x00007acf2ea006c0]:Unable to open the file/home/wldmzex/wldModelWork/untitled.stl
+[error]	2024-11-16 00:11:03.165438[Thread 0x00007acfb1313c40]:Unable to open the file/home/wldmzex/wldModelWork/wldmodelwork/project/PortablePlasticConstruct/stl/z_motor_base.STL
+[error]	2024-11-16 00:11:03.165544[Thread 0x00007acf164006c0]:Unable to open the file/home/wldmzex/wldModelWork/wldmodelwork/project/PortablePlasticConstruct/tool/x_trace_installer.STL
+[error]	2024-11-16 00:11:03.165579[Thread 0x00007acf2e0006c0]:Unable to open the file/home/wldmzex/wldModelWork/wldmodelwork/art/1.obj
+[error]	2024-11-16 00:11:03.165894[Thread 0x00007acf170006c0]:Unable to open the file/home/wldmzex/wldModelWork/wldmodelwork/project/PortablePlasticConstruct/stl/4040FlowGuide.STL
+[error]	2024-11-16 00:11:03.166130[Thread 0x00007acf2ea006c0]:Unable to open the file/home/wldmzex/wldModelWork/wldmodelwork/project/PortablePlasticConstruct/stl/X_switch.STL
+[error]	2024-11-16 00:11:03.166574[Thread 0x00007acf15e006c0]:Unable to open the file/home/wldmzex/wldModelWork/wldmodelwork/project/PortablePlasticConstruct/stl/Model_Fan.STL
+[error]	2024-11-16 00:11:03.166974[Thread 0x00007acfb1313c40]:Unable to open the file/home/wldmzex/wldModelWork/wldmodelwork/project/PortablePlasticConstruct/stl/y_motor_bracket.STL
+[error]	2024-11-16 00:11:03.167795[Thread 0x00007acf16a006c0]:Unable to open the file/home/wldmzex/Downloads/gw.STL
+[warning]	2024-11-16 00:11:03.987285[Thread 0x00007acfb1313c40]:00时11分03秒: Warning: Error running JavaScript: Unsupported result type
+[warning]	2024-11-16 00:11:03.990350[Thread 0x00007acfb1313c40]:00时11分03秒: Warning: Error running JavaScript: Unsupported result type
+[warning]	2024-11-16 00:11:03.992956[Thread 0x00007acfb1313c40]:00时11分03秒: Warning: Error running JavaScript: Unsupported result type
+[warning]	2024-11-16 00:11:03.995393[Thread 0x00007acfb1313c40]:00时11分03秒: Warning: Error running JavaScript: Unsupported result type
+[error]	2024-11-16 00:11:05.833640[Thread 0x00007acfb1313c40]:calc_exclude_triangles:Unable to create exclude triangles
+[warning]	2024-11-16 00:11:05.888249[Thread 0x00007acfb1313c40]:get_version, get_version not supported,return 00.00.00.00!
+[error]	2024-11-16 00:11:07.639155[Thread 0x00007acfb1313c40]:calc_exclude_triangles:Unable to create exclude triangles
+[error]	2024-11-16 00:12:06.297925[Thread 0x00007acfb1313c40]:Unable to open the file/home/wldmzex/wldModelWork/wldmodelwork/project/PortablePlasticConstruct/stl/ARM_CONNECT_PART.STL
+[error]	2024-11-16 00:12:42.410475[Thread 0x00007acfb1313c40]:Unable to load bed model: /tmp/.mount_OrcaSl8zvEb8/resources/profiles/BIQU/biqu_b1_buildplate_model.stl
+[error]	2024-11-16 00:12:42.410579[Thread 0x00007acfb1313c40]:calc_exclude_triangles:Unable to create exclude triangles
+[error]	2024-11-16 00:12:42.411565[Thread 0x00007acfb1313c40]:Unable to load bed texture: /tmp/.mount_OrcaSl8zvEb8/resources/profiles/BIQU/biqu_b1_buildplate_texture.png
+[error]	2024-11-16 10:16:30.353233[Thread 0x00007acfb1313c40]:calc_exclude_triangles:Unable to create exclude triangles
+[error]	2024-11-16 10:16:30.442837[Thread 0x00007acfb1313c40]:Unable to load bed model: /tmp/.mount_OrcaSl8zvEb8/resources/profiles/BIQU/biqu_b1_buildplate_model.stl

@@ -1,0 +1,23 @@
+[error]	2024-11-13 22:37:18.602655[Thread 0x000077a6692d2c40]:calc_exclude_triangles:Unable to create exclude triangles
+[error]	2024-11-13 22:37:18.627991[Thread 0x000077a5d64006c0]:Unable to open the file/home/wldmzex/wldModelWork/wldmodelwork/project/PortablePlasticConstruct/stl/beitfixer.STL
+[error]	2024-11-13 22:37:18.628351[Thread 0x000077a6692d2c40]:Unable to open the file/home/wldmzex/wldModelWork/wldmodelwork/art/sb.obj
+[error]	2024-11-13 22:37:18.629053[Thread 0x000077a5d6a006c0]:Unable to open the file/home/wldmzex/wldModelWork/wldmodelwork/project/PortablePlasticConstruct/stl/4040FlowGuide.STL
+[error]	2024-11-13 22:37:18.629216[Thread 0x000077a655a006c0]:Unable to open the file/home/wldmzex/wldModelWork/wldmodelwork/project/PortablePlasticConstruct/stl/HeatBead_base.STL
+[error]	2024-11-13 22:37:18.629242[Thread 0x000077a5d5e006c0]:Unable to open the file/home/wldmzex/wldModelWork/wldmodelwork/project/PortablePlasticConstruct/stl/ext_base.STL
+[error]	2024-11-13 22:37:18.629269[Thread 0x000077a5d64006c0]:Unable to open the file/home/wldmzex/wldModelWork/wldmodelwork/project/PortablePlasticConstruct/stl/y_wheel.STL
+[error]	2024-11-13 22:37:18.629313[Thread 0x000077a633e006c0]:Unable to open the file/home/wldmzex/wldModelWork/wldmodelwork/project/PortablePlasticConstruct/stl/ARM_CONNECT_PART.STL
+[error]	2024-11-13 22:37:18.629328[Thread 0x000077a6320006c0]:Unable to open the file/home/wldmzex/wldModelWork/wldmodelwork/project/PortablePlasticConstruct/stl/z_motor_base.STL
+[error]	2024-11-13 22:37:18.629346[Thread 0x000077a655a006c0]:Unable to open the file/home/wldmzex/wldModelWork/wldmodelwork/art/1.obj
+[error]	2024-11-13 22:37:18.629376[Thread 0x000077a632a006c0]:Unable to open the file/home/wldmzex/wldModelWork/wldmodelwork/project/PortablePlasticConstruct/stl/y_motor_bracket.STL
+[error]	2024-11-13 22:37:18.629795[Thread 0x000077a5d6a006c0]:Unable to open the file/home/wldmzex/wldModelWork/wldmodelwork/project/PortablePlasticConstruct/tool/x_trace_installer.STL
+[error]	2024-11-13 22:37:18.630143[Thread 0x000077a633e006c0]:Unable to open the file/home/wldmzex/wldModelWork/wldmodelwork/project/PortablePlasticConstruct/stl/X_switch.STL
+[error]	2024-11-13 22:37:18.630883[Thread 0x000077a5d64006c0]:Unable to open the file/home/wldmzex/wldModelWork/wldmodelwork/project/PortablePlasticConstruct/stl/Model_Fan.STL
+[error]	2024-11-13 22:37:18.630953[Thread 0x000077a655a006c0]:Unable to open the file/home/wldmzex/wldModelWork/untitled.stl
+[error]	2024-11-13 22:37:18.633264[Thread 0x000077a6320006c0]:Unable to open the file/home/wldmzex/Downloads/gw.STL
+[warning]	2024-11-13 22:37:19.334557[Thread 0x000077a6692d2c40]:22时37分19秒: Warning: Error running JavaScript: Unsupported result type
+[warning]	2024-11-13 22:37:19.347610[Thread 0x000077a6692d2c40]:22时37分19秒: Warning: Error running JavaScript: Unsupported result type
+[warning]	2024-11-13 22:37:19.358189[Thread 0x000077a6692d2c40]:22时37分19秒: Warning: Error running JavaScript: Unsupported result type
+[warning]	2024-11-13 22:37:19.362259[Thread 0x000077a6692d2c40]:22时37分19秒: Warning: Error running JavaScript: Unsupported result type
+[error]	2024-11-13 22:37:21.927077[Thread 0x000077a6692d2c40]:calc_exclude_triangles:Unable to create exclude triangles
+[warning]	2024-11-13 22:37:22.012751[Thread 0x000077a6692d2c40]:get_version, get_version not supported,return 00.00.00.00!
+[error]	2024-11-13 22:37:23.624063[Thread 0x000077a6692d2c40]:calc_exclude_triangles:Unable to create exclude triangles

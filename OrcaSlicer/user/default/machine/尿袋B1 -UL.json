@@ -1,0 +1,33 @@
+{
+    "emit_machine_limits_to_gcode": "0",
+    "from": "User",
+    "gcode_flavor": "klipper",
+    "inherits": "BIQU B1 (0.4 nozzle)",
+    "is_custom_defined": "0",
+    "machine_max_acceleration_extruding": [
+        "6000"
+    ],
+    "machine_max_acceleration_retracting": [
+        "6000"
+    ],
+    "machine_max_acceleration_x": [
+        "6000"
+    ],
+    "machine_max_acceleration_y": [
+        "6000"
+    ],
+    "name": "尿袋B1 -UL",
+    "print_host": "192.168.2.238",
+    "printer_settings_id": "尿袋B1 -UL",
+    "printhost_apikey": "066a863e902b40508508ac1186d8c5ae",
+    "retract_when_changing_layer": [
+        "0"
+    ],
+    "retraction_length": [
+        "6"
+    ],
+    "version": "2.0.2.0",
+    "wipe": [
+        "0"
+    ]
+}

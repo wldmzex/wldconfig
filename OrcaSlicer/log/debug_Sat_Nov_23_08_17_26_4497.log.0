@@ -1,0 +1,48 @@
+[error]	2024-11-23 08:17:31.101432[Thread 0x00007b93653fdc40]:Unable to load bed model: /tmp/.mount_OrcaSlLnnF2R/resources/profiles/BIQU/biqu_b1_buildplate_model.stl
+[error]	2024-11-23 08:17:31.118039[Thread 0x00007b93653fdc40]:calc_exclude_triangles:Unable to create exclude triangles
+[error]	2024-11-23 08:17:31.133418[Thread 0x00007b93653fdc40]:Unable to load bed texture: /tmp/.mount_OrcaSlLnnF2R/resources/profiles/BIQU/biqu_b1_buildplate_texture.png
+[error]	2024-11-23 08:17:31.148145[Thread 0x00007b92eb7fc6c0]:Unable to open the file/home/wldmzex/wldModelWork/wldmodelwork/art/1.obj
+[error]	2024-11-23 08:17:31.148731[Thread 0x00007b92e15fe6c0]:Unable to open the file/home/wldmzex/wldModelWork/wldmodelwork/project/PortablePlasticConstruct/stl/beitfixer.STL
+[error]	2024-11-23 08:17:31.149123[Thread 0x00007b92e09fb6c0]:Unable to open the file/home/wldmzex/wldModelWork/wldmodelwork/project/PortablePlasticConstruct/stl/4040FlowGuide.STL
+[error]	2024-11-23 08:17:31.150150[Thread 0x00007b92e19ff6c0]:Unable to open the file/home/wldmzex/wldModelWork/wldmodelwork/project/PortablePlasticConstruct/stl/y_motor_bracket.STL
+[error]	2024-11-23 08:17:31.150173[Thread 0x00007b92e11fd6c0]:Unable to open the file/home/wldmzex/wldModelWork/untitled.stl
+[error]	2024-11-23 08:17:31.150306[Thread 0x00007b92eb7fc6c0]:Unable to open the file/home/wldmzex/wldModelWork/wldmodelwork/project/PortablePlasticConstruct/stl/z_motor_base.STL
+[error]	2024-11-23 08:17:31.151071[Thread 0x00007b92e11fd6c0]:Unable to open the file/home/wldmzex/wldModelWork/wldmodelwork/project/PortablePlasticConstruct/stl/X_switch.STL
+[error]	2024-11-23 08:17:31.151083[Thread 0x00007b92e19ff6c0]:Unable to open the file/home/wldmzex/wldModelWork/wldmodelwork/project/PortablePlasticConstruct/tool/x_trace_installer.STL
+[error]	2024-11-23 08:17:31.151029[Thread 0x00007b92eb7fc6c0]:Unable to open the file/home/wldmzex/wldModelWork/wldmodelwork/art/sb.obj
+[error]	2024-11-23 08:17:31.151015[Thread 0x00007b92e15fe6c0]:Unable to open the file/home/wldmzex/wldModelWork/wldmodelwork/project/PortablePlasticConstruct/stl/y_wheel.STL
+[error]	2024-11-23 08:17:31.151171[Thread 0x00007b92ebffd6c0]:Unable to open the file/home/wldmzex/wldModelWork/wldmodelwork/project/PortablePlasticConstruct/stl/HeatBead_base.STL
+[error]	2024-11-23 08:17:31.151213[Thread 0x00007b92e0dfc6c0]:Unable to open the file/home/wldmzex/wldModelWork/wldmodelwork/project/PortablePlasticConstruct/stl/ext_base.STL
+[error]	2024-11-23 08:17:31.151331[Thread 0x00007b92eb7fc6c0]:Unable to open the file/home/wldmzex/wldModelWork/wldmodelwork/project/PortablePlasticConstruct/stl/ARM_CONNECT_PART.STL
+[error]	2024-11-23 08:17:31.151783[Thread 0x00007b92e09fb6c0]:Unable to open the file/home/wldmzex/wldModelWork/wldmodelwork/project/PortablePlasticConstruct/stl/Model_Fan.STL
+[error]	2024-11-23 08:17:31.153936[Thread 0x00007b92e11fd6c0]:Unable to open the file/home/wldmzex/Downloads/gw.STL
+[error]	2024-11-23 08:17:31.367306[Thread 0x00007b93653fdc40]:Unable to load bed model: /tmp/.mount_OrcaSlLnnF2R/resources/profiles/BIQU/biqu_b1_buildplate_model.stl
+[warning]	2024-11-23 08:17:32.426619[Thread 0x00007b93653fdc40]:08时17分32秒: Warning: Error running JavaScript: Unsupported result type
+[warning]	2024-11-23 08:17:32.438986[Thread 0x00007b93653fdc40]:08时17分32秒: Warning: Error running JavaScript: Unsupported result type
+[warning]	2024-11-23 08:17:32.447992[Thread 0x00007b93653fdc40]:08时17分32秒: Warning: Error running JavaScript: Unsupported result type
+[warning]	2024-11-23 08:17:32.881412[Thread 0x00007b93653fdc40]:08时17分32秒: Warning: Error running JavaScript: Unsupported result type
+[error]	2024-11-23 08:17:35.828707[Thread 0x00007b93653fdc40]:calc_exclude_triangles:Unable to create exclude triangles
+[error]	2024-11-23 08:17:35.892353[Thread 0x00007b93653fdc40]:Unable to load bed model: /tmp/.mount_OrcaSlLnnF2R/resources/profiles/BIQU/biqu_b1_buildplate_model.stl
+[error]	2024-11-23 08:17:36.002152[Thread 0x00007b93653fdc40]:Unable to load bed model: /tmp/.mount_OrcaSlLnnF2R/resources/profiles/BIQU/biqu_b1_buildplate_model.stl
+[warning]	2024-11-23 08:17:36.011135[Thread 0x00007b93653fdc40]:get_version, get_version not supported,return 00.00.00.00!
+[error]	2024-11-23 08:17:38.250561[Thread 0x00007b93653fdc40]:calc_exclude_triangles:Unable to create exclude triangles
+[error]	2024-11-23 08:17:38.338524[Thread 0x00007b93653fdc40]:Unable to load bed model: /tmp/.mount_OrcaSlLnnF2R/resources/profiles/BIQU/biqu_b1_buildplate_model.stl
+[error]	2024-11-23 08:17:38.790075[Thread 0x00007b93653fdc40]:calc_exclude_triangles:Unable to create exclude triangles
+[error]	2024-11-23 08:17:38.791862[Thread 0x00007b93653fdc40]:Unable to load bed model: /tmp/.mount_OrcaSlLnnF2R/resources/profiles/BIQU/biqu_b1_buildplate_model.stl
+[error]	2024-11-23 08:17:38.909498[Thread 0x00007b93653fdc40]:Unable to load bed model: /tmp/.mount_OrcaSlLnnF2R/resources/profiles/BIQU/biqu_b1_buildplate_model.stl
+[error]	2024-11-23 08:17:39.148002[Thread 0x00007b93653fdc40]:Unable to load bed model: /tmp/.mount_OrcaSlLnnF2R/resources/profiles/BIQU/biqu_b1_buildplate_model.stl
+[error]	2024-11-23 08:17:56.011057[Thread 0x00007b93653fdc40]:Unable to load bed model: /tmp/.mount_OrcaSlLnnF2R/resources/profiles/BIQU/biqu_b1_buildplate_model.stl
+[error]	2024-11-23 08:17:56.075727[Thread 0x00007b93653fdc40]:calc_exclude_triangles:Unable to create exclude triangles
+[error]	2024-11-23 08:17:56.132368[Thread 0x00007b93653fdc40]:Unable to load bed model: /tmp/.mount_OrcaSlLnnF2R/resources/profiles/BIQU/biqu_b1_buildplate_model.stl
+[error]	2024-11-23 08:17:56.162788[Thread 0x00007b93653fdc40]:Unable to load bed model: /tmp/.mount_OrcaSlLnnF2R/resources/profiles/BIQU/biqu_b1_buildplate_model.stl
+[error]	2024-11-23 08:18:02.912146[Thread 0x00007b93653fdc40]:Unable to load bed model: /tmp/.mount_OrcaSlLnnF2R/resources/profiles/BIQU/biqu_b1_buildplate_model.stl
+[error]	2024-11-23 08:18:24.336796[Thread 0x00007b93653fdc40]:Unable to open the file/home/wldmzex/wldModelWork/wldmodelwork/project/wldIOTdevice_24w1122/RELAY_UP.STEP
+[error]	2024-11-23 08:18:26.119377[Thread 0x00007b93653fdc40]:Unable to load bed model: /tmp/.mount_OrcaSlLnnF2R/resources/profiles/BIQU/biqu_b1_buildplate_model.stl
+[warning]	2024-11-23 08:18:26.151758[Thread 0x00007b93395ff6c0]:Arrange full params: {"min_obj_distance":0,"accuracy":1.000000,"parallel":1,"allow_rotations":0,"do_final_align":1,"allow_multi_materials_on_same_plate":1,"avoid_extrusion_cali_region":1,"is_seq_print":0,"bed_shrink_x":1.000000,"bed_shrink_y":1.000000,"brim_skirt_distance":0.000000,"clearance_height_to_rod":34.000000,"clearance_height_to_lid":34.000000,"cleareance_radius":47.000000,"printable_height":270.000000,
+[error]	2024-11-23 08:18:26.519586[Thread 0x00007b93653fdc40]:Unable to load bed model: /tmp/.mount_OrcaSlLnnF2R/resources/profiles/BIQU/biqu_b1_buildplate_model.stl
+[error]	2024-11-23 08:19:15.726387[Thread 0x00007b93653fdc40]:Unable to load bed model: /tmp/.mount_OrcaSlLnnF2R/resources/profiles/BIQU/biqu_b1_buildplate_model.stl
+[error]	2024-11-23 08:20:05.538198[Thread 0x00007b93653fdc40]:Unable to load bed model: /tmp/.mount_OrcaSlLnnF2R/resources/profiles/BIQU/biqu_b1_buildplate_model.stl
+[error]	2024-11-23 08:20:07.449348[Thread 0x00007b92cb7fe6c0]:gcode path conflicts found between RELAY_OUTLETSHELL.STEP and RELAY_UP.STEP
+[error]	2024-11-23 08:25:24.266737[Thread 0x00007b93653fdc40]:Unable to load bed model: /tmp/.mount_OrcaSlLnnF2R/resources/profiles/BIQU/biqu_b1_buildplate_model.stl
+[error]	2024-11-23 08:28:48.471939[Thread 0x00007b93653fdc40]:calc_exclude_triangles:Unable to create exclude triangles
+[error]	2024-11-23 08:28:48.538916[Thread 0x00007b93653fdc40]:Unable to load bed model: /tmp/.mount_OrcaSlLnnF2R/resources/profiles/BIQU/biqu_b1_buildplate_model.stl
