@@ -147,9 +147,9 @@ local function setup(st, opts)
 		if not change or signs[change] == "" then
 			return ui.Line("")
 		elseif self._file:is_hovered() then
-			return ui.Line { ui.Span(" "), ui.Span(signs[change]) }
+			return ui.Line({ ui.Span(" "), ui.Span(signs[change]) })
 		else
-			return ui.Line { ui.Span(" "), ui.Span(signs[change]):style(styles[change]) }
+			return ui.Line({ ui.Span(" "), ui.Span(signs[change]):style(styles[change]) })
 		end
 	end, opts.order)
 end
@@ -175,6 +175,7 @@ local function fetch(_, job)
 		:stdout(Command.PIPED)
 		:output()
 	if not output then
+		ya.err("Cannot spawn git command, error code " .. tostring(err))
 		ya.err("Cannot spawn git command, error: " .. err)
 		return 0
 	end

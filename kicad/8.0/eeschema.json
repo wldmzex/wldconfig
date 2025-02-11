@@ -11,13 +11,13 @@
   "appearance": {
     "color_theme": "/home/wldmzex/.local/share/kicad/8.0/3rdparty/colors/com_github_pointhi_kicad-color-schemes_black-white/black-white.json",
     "default_font": "KiCad Font",
-    "edit_label_height": 421,
+    "edit_label_height": 447,
     "edit_label_visible_columns": "0 1 2 3 4 5 6 7",
     "edit_label_width": 1866,
-    "edit_sheet_height": 339,
+    "edit_sheet_height": 347,
     "edit_sheet_visible_columns": "0 1 2 3 4 5 6 7",
     "edit_sheet_width": 1029,
-    "edit_symbol_height": 540,
+    "edit_symbol_height": 558,
     "edit_symbol_visible_columns": "0 1 2 3 4 5 6 7",
     "edit_symbol_width": 1109,
     "erc_severities": 24,
@@ -143,6 +143,8 @@
   },
   "find_replace": {
     "find_history": [
+      "I2C3",
+      "fspi",
       "MIC",
       "C38",
       "VDDCR",
@@ -150,11 +152,9 @@
       "3.3V",
       "SDA",
       "SCL",
-      "RS",
-      "SWIO",
-      "PC2"
+      "RS"
     ],
-    "find_string": "MIC",
+    "find_string": "I2C3",
     "match_case": false,
     "match_mode": 0,
     "replace_history": [],
@@ -185,16 +185,14 @@
   },
   "lib_tree": {
     "column_widths": {
-      "Description": 312,
+      "Description": 218,
       "Item": 205
     },
     "columns": [
       "Item",
       "Description"
     ],
-    "open_libs": [
-      "PCM_Elektuur"
-    ]
+    "open_libs": []
   },
   "lib_view": {
     "cmp_list_width": 150,
@@ -289,14 +287,14 @@
   "system": {
     "file_history": [
       "/home/wldmzex/Kicad_project/Project/LunarShip/LunarShip.kicad_sch",
+      "/home/wldmzex/Kicad_project/Project/ME_V1/ME_V1.kicad_sch",
       "/home/wldmzex/Kicad_project/Project/Red_Mage_V2/Red_Mage_V2.kicad_sch",
-      "/home/wldmzex/Kicad_project/Project/wldFOC-V0.2/wldFOC-V0.2.kicad_sch",
-      "/home/wldmzex/Kicad_project/Project/TESTSIMULATOR/TESTSIMULATOR.kicad_sch",
+      "/home/wldmzex/Kicad_project/Project/wldFOC-V1/wldFOC-V0.2.kicad_sch",
+      "/home/wldmzex/Kicad_project/Project/FOC_MOUDLE/FOC_MOUDLE.kicad_sch",
       "/home/wldmzex/Kicad_project/Project/CH32v003_IRON/CH32v003_IRON.kicad_sch",
-      "/home/wldmzex/Documents/reference_project/ESP32ETH/MULTIGW.kicad_sch",
-      "/home/wldmzex/Kicad_project/Project/CH32v003_testboard/CH32v003_testboard.kicad_sch",
-      "/home/wldmzex/Kicad_project/Project/wldnetcontroller/wldnetcontroller.kicad_sch",
-      "/home/wldmzex/Kicad_project/Project/PlasticConstructBoard_V2/PlasticConstructBoard_V2.kicad_sch"
+      "/home/wldmzex/Kicad_project/Project/Red_Mage_LVGL/Red_Mage_V2.kicad_sch",
+      "/home/wldmzex/Kicad_project/Project/LVGL_EXP/LVGL_EXP.kicad_sch",
+      "/home/wldmzex/Kicad_project/Project/wldFOC-V0.2/wldFOC-V0.2.kicad_sch"
     ],
     "first_run_shown": false,
     "last_imperial_units": 5,
@@ -305,7 +303,7 @@
     "max_undo_items": 0,
     "never_show_rescue_dialog": false,
     "show_import_issues": true,
-    "units": 1
+    "units": 5
   },
   "window": {
     "cursor": {
@@ -317,7 +315,7 @@
       "axes_enabled": false,
       "fast_grid_1": 1,
       "fast_grid_2": 2,
-      "last_size": 1,
+      "last_size": 2,
       "line_width": 1.0,
       "min_spacing": 10.0,
       "override_connected": true,

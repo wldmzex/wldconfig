@@ -9,8 +9,8 @@ prepend_keymap = [
   { on = "e", run = "arrow 1", desc = "Move cursor up 1 row"},
   { on = "E", run = "arrow 5", desc = "Move cursor up 5 rows"},
   { on = "<C-E>", run = "arrow 50%", desc = "Move cursor up half page"},
-  { on = ["g", "u"], run = "arrow -99999999", desc = "Move cursor to the top" },
-  { on = ["g", "e"], run = "arrow 99999999", desc = "Move cursor to the Button" },
+  { on = ["g", "u"], run = "arrow top", desc = "Move cursor to the top" },
+  { on = ["g", "e"], run = "arrow bot", desc = "Move cursor to the Button" },
   { on = "S", run = 'shell "$SHELL" --block --confirm' },
   #FAST DIRECTORY Movement
   { on = ["g", "d"], run = "cd ~/Downloads", desc = "GO 2 Downloads" },
@@ -32,6 +32,8 @@ prepend_keymap = [
 	{ on = "9", run = "tab_switch 8", desc = "Switch to the ninth tab" },
 	{ on = ["t","a"], run = "tab_create --current", desc = "create new tab" },
 	{ on = ["t","d"], run = "tab_close --current", desc = "Close current tab" },
+  #Task_Management
+  { on = ["t", "t"], run = "tasks_show", desc = "GO 2 Documents " },
   #Operation Y-copy
   { on = ["y", "y"], run = "yank", desc = "Yank selected files (copy)" },
 	{ on = ["y", "p"], run = "copy path", desc = "Copy the file path" },
@@ -47,4 +49,7 @@ prepend_keymap = [
 	{ on = ["p", "h"], run = "hardlink", desc = "Hardlink yanked files" },
   # Operation: 
 	{ on = "<C-h>", run = "hidden toggle", desc = "File Hidden toggle" },
+	{ on = "A", run = "create --dir", desc = "Create directory" },
+	{ on = ["d","D"], run = "remove", desc = "Trash file" },
+	{ on = ["d","d"], run = "yank --cut", desc = "Cut file" },
 ]

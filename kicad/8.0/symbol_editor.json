@@ -91,7 +91,7 @@
       "always_show_cursor": true,
       "fullscreen_cursor": false
     },
-    "display": 1,
+    "display": 0,
     "grid": {
       "axes_enabled": true,
       "fast_grid_1": 1,

@@ -24,4 +24,5 @@
   (lib (name "PCM_4ms_Potentiometer")(type "KiCad")(uri "${KICAD8_3RD_PARTY}/symbols/com_github_4ms_4ms-kicad-lib/4ms_Potentiometer.kicad_sym")(options "")(descr "由扩展内容管理器添加")(disabled)(hidden))
   (lib (name "wldVision")(type "KiCad")(uri "${WLDLIB}/Lib/wldVision.kicad_sym")(options "")(descr ""))
   (lib (name "wldMisc")(type "KiCad")(uri "${WLDLIB}/Lib/wldMisc.kicad_sym")(options "")(descr ""))
+  (lib (name "PCM_Elektuur")(type "KiCad")(uri "${KICAD8_3RD_PARTY}/symbols/com_gitlab_franzee_kicad-addons_elektuur/Elektuur.kicad_sym")(options "")(descr "由扩展内容管理器添加")(disabled)(hidden))
 )
