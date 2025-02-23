@@ -1,3 +1,5 @@
+--- @since 25.2.7
+
 local WIN = ya.target_family() == "windows"
 local PATS = {
 	{ "[MT]", 6 }, -- Modified
@@ -130,7 +132,7 @@ local function setup(st, opts)
 	local signs = {
 		[6] = t.modified_sign and t.modified_sign or "",
 		[5] = t.added_sign and t.added_sign or "",
-		[4] = t.untracked_sign and t.untracked_sign or "",
+		[4] = t.untracked_sign and t.untracked_sign or "?",
 		[3] = t.ignored_sign and t.ignored_sign or "",
 		[2] = t.deleted_sign and t.deleted_sign or "",
 		[1] = t.updated_sign and t.updated_sign or "U",
@@ -145,11 +147,11 @@ local function setup(st, opts)
 		end
 
 		if not change or signs[change] == "" then
-			return ui.Line("")
+			return ""
 		elseif self._file:is_hovered() then
-			return ui.Line({ ui.Span(" "), ui.Span(signs[change]) })
+			return ui.Line({ " ", signs[change] })
 		else
-			return ui.Line({ ui.Span(" "), ui.Span(signs[change]):style(styles[change]) })
+			return ui.Line({ " ", ui.Span(signs[change]):style(styles[change]) })
 		end
 	end, opts.order)
 end
@@ -159,7 +161,7 @@ local function fetch(_, job)
 	local repo = root(cwd)
 	if not repo then
 		remove(tostring(cwd))
-		return 1
+		return true
 	end
 
 	local paths = {}
@@ -175,9 +177,7 @@ local function fetch(_, job)
 		:stdout(Command.PIPED)
 		:output()
 	if not output then
-		ya.err("Cannot spawn git command, error code " .. tostring(err))
-		ya.err("Cannot spawn git command, error: " .. err)
-		return 0
+		return true, Err("Cannot spawn `git` command, error: %s", err)
 	end
 
 	local changed, ignored = {}, {}
@@ -203,7 +203,7 @@ local function fetch(_, job)
 	end
 	add(tostring(cwd), repo, changed)
 
-	return 3
+	return false
 end
 
 return { setup = setup, fetch = fetch }

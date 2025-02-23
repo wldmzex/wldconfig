@@ -59,8 +59,8 @@
   "system": {
     "check_for_kicad_updates": true,
     "file_history": [
-      "/home/wldmzex/Kicad_project/Project/LunarShip/LunarShip.kicad_pro",
       "/home/wldmzex/Kicad_project/Project/ME_V1/ME_V1.kicad_pro",
+      "/home/wldmzex/Kicad_project/Project/LunarShip/LunarShip.kicad_pro",
       "/home/wldmzex/Kicad_project/Project/Red_Mage_V2/Red_Mage_V2.kicad_pro",
       "/home/wldmzex/Kicad_project/Project/wldFOC-V1/wldFOC-V0.2.kicad_pro",
       "/home/wldmzex/Kicad_project/Project/FOC_MOUDLE/FOC_MOUDLE.kicad_pro",
@@ -73,10 +73,10 @@
     "last_imperial_units": 5,
     "last_metric_units": 1,
     "last_received_update": "",
-    "last_update_check_time": "2025-02-10T23:24:21",
+    "last_update_check_time": "2025-02-22T22:59:05",
     "max_undo_items": 0,
     "open_projects": [
-      "/home/wldmzex/Kicad_project/Project/LunarShip/LunarShip.kicad_pro"
+      "/home/wldmzex/Kicad_project/Project/ME_V1/ME_V1.kicad_pro"
     ],
     "show_import_issues": true,
     "units": 1
@@ -224,7 +224,7 @@
       "user_grid_y": ""
     },
     "maximized": true,
-    "mru_path": "/home/wldmzex/Kicad_project/Project/LunarShip/",
+    "mru_path": "/home/wldmzex/Kicad_project/Project/ME_V1/",
     "perspective": "layout2|name=MainToolbar;caption=;state=139596;dir=4;layer=2;row=0;pos=0;prop=100000;bestw=34;besth=227;minw=-1;minh=-1;maxw=-1;maxh=-1;floatx=-1;floaty=-1;floatw=-1;floath=-1|name=ProjectTree;caption=工程文件;state=1532;dir=4;layer=1;row=0;pos=0;prop=100000;bestw=370;besth=-1;minw=250;minh=-1;maxw=-1;maxh=-1;floatx=-1;floaty=-1;floatw=-1;floath=-1|name=Launcher;caption=编辑器;state=508;dir=5;layer=0;row=0;pos=0;prop=100000;bestw=397;besth=542;minw=397;minh=542;maxw=-1;maxh=-1;floatx=-1;floaty=-1;floatw=-1;floath=-1|dock_size(4,2,0)=34|dock_size(4,1,0)=370|dock_size(5,0,0)=397|",
     "pos_x": 0,
     "pos_y": 0,

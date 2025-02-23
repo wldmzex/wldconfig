@@ -1,0 +1,9 @@
+[time]
+command=date +%T
+interval=1
+[battery]
+command=bash ~/.config/script/getbatterypersent.sh
+interval=30
+[ac_power]
+command=bash ~/.config/script/getaconlinestatus.sh
+interval=30
