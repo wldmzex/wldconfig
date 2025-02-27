@@ -7,14 +7,20 @@ pdf_open = [
 	{ run = 'chromium "$@" &> /dev/null 2>&1 & ', desc = "chromiun pdf reader", block = true, for = "unix" },
 ]
 
+kicad_sch_open = [
+	{ run = 'eeschema "$@" &> /dev/null 2>&1 & ', desc = "kicad schematic editor", block = true, for = "unix" },
+]
+
 cubemx=[
 {run='~/application/CubeMX/STM32CubeMX "$@" &> /dev/null 2>&1 & ',dest="cubemx ioc opener",block=true,for="unix"}
 ]
+
 
 [open]
 prepend_rules = [
 	{ name = "*.pdf", use = "pdf_open" },
 	{ name = "*.ioc", use = "cubemx" },
+	{ name = "*.kicad_sch", use = "kicad_sch_open" },
 ]
 
 #[[plugin.prepend_fetchers]]

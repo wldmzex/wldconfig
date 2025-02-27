@@ -22,6 +22,7 @@
     "edit_symbol_width": 1109,
     "erc_severities": 24,
     "footprint_preview": true,
+    "mark_sim_exclusions": true,
     "print_sheet_reference": true,
     "show_directive_labels": true,
     "show_erc_errors": true,
@@ -30,13 +31,18 @@
     "show_hidden_fields": false,
     "show_hidden_pins": false,
     "show_illegal_symbol_lib_dialog": true,
-    "show_op_currents": true,
+    "show_op_currents": false,
     "show_op_voltages": true,
     "show_page_limits": true,
+    "show_pin_alt_icons": true,
     "show_sexpr_file_convert_warning": true,
     "show_sheet_filename_case_sensitivity_dialog": true
   },
   "aui": {
+    "design_blocks_panel_docked_width": 309,
+    "design_blocks_panel_float_height": -1,
+    "design_blocks_panel_float_width": -1,
+    "design_blocks_show": true,
     "float_net_nav_panel": false,
     "hierarchy_panel_docked_height": -1,
     "hierarchy_panel_docked_width": 371,
@@ -58,8 +64,8 @@
     "properties_splitter_proportion": 0.5,
     "schematic_hierarchy_float": false,
     "search_panel_dock_direction": 3,
-    "search_panel_height": 50,
-    "search_panel_width": 40,
+    "search_panel_height": 110,
+    "search_panel_width": 284,
     "show_net_nav_panel": false,
     "show_properties": true,
     "show_schematic_hierarchy": true,
@@ -98,6 +104,22 @@
     "center_on_items": true,
     "on_selection": true,
     "zoom_to_fit": true
+  },
+  "design_block_chooser": {
+    "height": 899,
+    "keep_annotations": false,
+    "lib_tree": {
+      "column_widths": {
+        "Description": 340,
+        "Item": 227
+      }
+    },
+    "place_as_sheet": false,
+    "repeated_placement": false,
+    "sash_pos_h": 440,
+    "sash_pos_v": 794,
+    "sort_mode": 0,
+    "width": 309
   },
   "drawing": {
     "auto_start_wires": true,
@@ -185,14 +207,16 @@
   },
   "lib_tree": {
     "column_widths": {
-      "Description": 218,
+      "Description": 673,
       "Item": 205
     },
     "columns": [
       "Item",
       "Description"
     ],
-    "open_libs": []
+    "open_libs": [
+      "wldInterface"
+    ]
   },
   "lib_view": {
     "cmp_list_width": 150,
@@ -240,7 +264,12 @@
     "hpgl_paper_size": 0,
     "hpgl_pen_size": 0.5,
     "other_open_file_after_plot": false,
+    "pdf_hierarchical_links": true,
+    "pdf_metadata": true,
     "pdf_property_popups": true
+  },
+  "plugins": {
+    "actions": []
   },
   "printing": {
     "background": false,
@@ -251,9 +280,15 @@
     "title_block": false,
     "use_theme": false
   },
+  "search_pane": {
+    "selection_zoom": 1
+  },
   "selection": {
     "draw_selected_children": true,
     "fill_shapes": false,
+    "highlight_netclass_colors": false,
+    "highlight_netclass_colors_alpha": 0.6,
+    "highlight_netclass_colors_thickness": 15,
     "highlight_thickness": 2,
     "select_pin_selects_symbol": false,
     "thickness": 3
@@ -261,6 +296,13 @@
   "simulator": {
     "cursors_panel_height": 210,
     "measurements_panel_height": 87,
+    "mouse_wheel_actions": {
+      "horizontal": 0,
+      "vertical_unmodified": 4,
+      "vertical_with_alt": 0,
+      "vertical_with_ctrl": 1,
+      "vertical_with_shift": 3
+    },
     "plot_panel_height": 749,
     "plot_panel_width": 1318,
     "signal_panel_height": 405,
@@ -276,30 +318,30 @@
     }
   },
   "symbol_chooser": {
-    "height": 680,
+    "height": 529,
     "keep_symbol": true,
     "place_all_units": true,
-    "sash_pos_h": 534,
-    "sash_pos_v": 460,
+    "sash_pos_h": 879,
+    "sash_pos_v": 458,
     "sort_mode": 0,
-    "width": 996
+    "width": 1333
   },
   "system": {
     "file_history": [
-      "/home/wldmzex/Kicad_project/Project/LunarShip/LunarShip.kicad_sch",
-      "/home/wldmzex/Kicad_project/Project/ME_V1/ME_V1.kicad_sch",
-      "/home/wldmzex/Kicad_project/Project/Red_Mage_V2/Red_Mage_V2.kicad_sch",
-      "/home/wldmzex/Kicad_project/Project/wldFOC-V1/wldFOC-V0.2.kicad_sch",
-      "/home/wldmzex/Kicad_project/Project/FOC_MOUDLE/FOC_MOUDLE.kicad_sch",
-      "/home/wldmzex/Kicad_project/Project/CH32v003_IRON/CH32v003_IRON.kicad_sch",
-      "/home/wldmzex/Kicad_project/Project/Red_Mage_LVGL/Red_Mage_V2.kicad_sch",
-      "/home/wldmzex/Kicad_project/Project/LVGL_EXP/LVGL_EXP.kicad_sch",
-      "/home/wldmzex/Kicad_project/Project/wldFOC-V0.2/wldFOC-V0.2.kicad_sch"
+      "/home/wldmzex/Kicad_project/Project/lamp_proj/lamp_proj.kicad_sch",
+      "/home/wldmzex/Kicad_project/Project/CH32v003_testboard/CH32v003_testboard.kicad_sch",
+      "/home/wldmzex/Kicad_project/Project/A_MOUDULE/MOTOR/STEPPER_DRIVER.kicad_sch",
+      "/home/wldmzex/Kicad_project/Project/A_MOUDULE/POWER_SCH/XL6019_5V-12V.kicad_sch",
+      "/home/wldmzex/Kicad_project/Project/A_MOUDULE/POWER_SCH/SX1308_5V-12V.kicad_sch",
+      "/home/wldmzex/Kicad_project/Project/A_MOUDULE/POWER_SCH/XL4016.kicad_sch",
+      "/home/wldmzex/Kicad_project/Project/A_MOUDULE/POWER_SCH/XL4015.kicad_sch",
+      "/home/wldmzex/Kicad_project/Project/A_MOUDULE/SENSOR/TLE5012B.kicad_sch",
+      "/home/wldmzex/Kicad_project/Project/A_MOUDULE/SENSOR/INA199.kicad_sch"
     ],
     "first_run_shown": false,
     "last_imperial_units": 5,
     "last_metric_units": 1,
-    "last_symbol_lib_dir": "/home/wldmzex/Kicad_project/Lib/lib_ad",
+    "last_symbol_lib_dir": "${WLDLIB}/Lib/Symbols",
     "max_undo_items": 0,
     "never_show_rescue_dialog": false,
     "show_import_issues": true,
@@ -315,7 +357,7 @@
       "axes_enabled": false,
       "fast_grid_1": 1,
       "fast_grid_2": 2,
-      "last_size": 2,
+      "last_size": 1,
       "line_width": 1.0,
       "min_spacing": 10.0,
       "override_connected": true,
@@ -359,9 +401,9 @@
     },
     "maximized": true,
     "mru_path": "",
-    "perspective": "layout2|name=InfoBar;caption=;state=131454;dir=1;layer=1;row=0;pos=0;prop=100000;bestw=20;besth=30;minw=-1;minh=-1;maxw=-1;maxh=-1;floatx=-1;floaty=-1;floatw=-1;floath=-1|name=MainToolbar;caption=;state=139632;dir=1;layer=6;row=0;pos=0;prop=100000;bestw=1204;besth=34;minw=-1;minh=-1;maxw=-1;maxh=-1;floatx=-1;floaty=-1;floatw=-1;floath=-1|name=MsgPanel;caption=;state=131452;dir=3;layer=6;row=0;pos=0;prop=100000;bestw=400;besth=34;minw=-1;minh=-1;maxw=-1;maxh=-1;floatx=-1;floaty=-1;floatw=-1;floath=-1|name=SchematicHierarchy;caption=原理图层次结构;state=2099148;dir=4;layer=3;row=0;pos=0;prop=100000;bestw=371;besth=200;minw=120;minh=60;maxw=-1;maxh=-1;floatx=423;floaty=45;floatw=200;floath=200|name=PropertiesManager;caption=属性;state=2099148;dir=4;layer=3;row=0;pos=1;prop=100000;bestw=300;besth=200;minw=240;minh=60;maxw=-1;maxh=-1;floatx=50;floaty=200;floatw=300;floath=400|name=NetNavigator;caption=网络导航;state=2099150;dir=4;layer=3;row=0;pos=0;prop=100000;bestw=200;besth=200;minw=120;minh=60;maxw=-1;maxh=-1;floatx=50;floaty=200;floatw=200;floath=200|name=OptToolbar;caption=;state=139596;dir=4;layer=2;row=0;pos=0;prop=100000;bestw=34;besth=460;minw=-1;minh=-1;maxw=-1;maxh=-1;floatx=-1;floaty=-1;floatw=-1;floath=-1|name=ToolsToolbar;caption=;state=139596;dir=2;layer=2;row=0;pos=0;prop=100000;bestw=34;besth=762;minw=-1;minh=-1;maxw=-1;maxh=-1;floatx=-1;floaty=-1;floatw=-1;floath=-1|name=DrawFrame;caption=;state=1020;dir=5;layer=0;row=0;pos=0;prop=100000;bestw=400;besth=194;minw=-1;minh=-1;maxw=-1;maxh=-1;floatx=-1;floaty=-1;floatw=-1;floath=-1|name=Search;caption=搜索;state=2098686;dir=3;layer=0;row=0;pos=0;prop=100000;bestw=180;besth=100;minw=180;minh=60;maxw=-1;maxh=-1;floatx=-1;floaty=-1;floatw=480;floath=200|dock_size(1,6,0)=34|dock_size(3,6,0)=34|dock_size(4,3,0)=373|dock_size(4,2,0)=34|dock_size(2,2,0)=34|dock_size(5,0,0)=190|",
+    "perspective": "layout2|name=InfoBar;caption=;state=131454;dir=1;layer=1;row=0;pos=0;prop=100000;bestw=20;besth=30;minw=-1;minh=-1;maxw=-1;maxh=-1;floatx=-1;floaty=-1;floatw=-1;floath=-1|name=MainToolbar;caption=;state=139632;dir=1;layer=6;row=0;pos=0;prop=100000;bestw=1172;besth=34;minw=-1;minh=-1;maxw=-1;maxh=-1;floatx=-1;floaty=-1;floatw=-1;floath=-1|name=MsgPanel;caption=;state=131452;dir=3;layer=6;row=0;pos=0;prop=100000;bestw=400;besth=34;minw=-1;minh=-1;maxw=-1;maxh=-1;floatx=-1;floaty=-1;floatw=-1;floath=-1|name=SchematicHierarchy;caption=原理图层次结构;state=2099148;dir=4;layer=3;row=0;pos=1;prop=100000;bestw=371;besth=200;minw=120;minh=60;maxw=-1;maxh=-1;floatx=423;floaty=87;floatw=200;floath=200|name=PropertiesManager;caption=属性;state=2099148;dir=4;layer=3;row=0;pos=0;prop=100000;bestw=300;besth=200;minw=240;minh=60;maxw=-1;maxh=-1;floatx=50;floaty=200;floatw=300;floath=400|name=SelectionFilter;caption=选择筛选器;state=2098636;dir=4;layer=3;row=0;pos=2;prop=0;bestw=180;besth=-1;minw=180;minh=-1;maxw=-1;maxh=-1;floatx=-1;floaty=-1;floatw=-1;floath=-1|name=DesignBlocks;caption=设计图块;state=2099148;dir=2;layer=3;row=0;pos=0;prop=100000;bestw=300;besth=200;minw=240;minh=60;maxw=-1;maxh=-1;floatx=50;floaty=200;floatw=800;floath=600|name=NetNavigator;caption=Net Navigator;state=2099150;dir=4;layer=3;row=0;pos=0;prop=100000;bestw=200;besth=200;minw=120;minh=60;maxw=-1;maxh=-1;floatx=50;floaty=200;floatw=200;floath=200|name=OptToolbar;caption=;state=139596;dir=4;layer=2;row=0;pos=0;prop=100000;bestw=34;besth=460;minw=-1;minh=-1;maxw=-1;maxh=-1;floatx=-1;floaty=-1;floatw=-1;floath=-1|name=ToolsToolbar;caption=;state=139596;dir=2;layer=2;row=0;pos=0;prop=100000;bestw=34;besth=890;minw=-1;minh=-1;maxw=-1;maxh=-1;floatx=-1;floaty=-1;floatw=-1;floath=-1|name=DrawFrame;caption=;state=1020;dir=5;layer=0;row=0;pos=0;prop=100000;bestw=400;besth=194;minw=-1;minh=-1;maxw=-1;maxh=-1;floatx=-1;floaty=-1;floatw=-1;floath=-1|name=Search;caption=搜索;state=2098686;dir=3;layer=0;row=0;pos=0;prop=100000;bestw=180;besth=100;minw=180;minh=60;maxw=-1;maxh=-1;floatx=-1;floaty=-1;floatw=480;floath=200|dock_size(1,6,0)=34|dock_size(3,6,0)=34|dock_size(4,3,0)=373|dock_size(2,3,0)=311|dock_size(4,2,0)=34|dock_size(2,2,0)=34|dock_size(5,0,0)=286|",
     "pos_x": 0,
-    "pos_y": 0,
+    "pos_y": 42,
     "size_x": 636,
     "size_y": 1036,
     "zoom_factors": [

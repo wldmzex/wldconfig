@@ -1,7 +1,6 @@
 {
   "appearance": {
-    "color_theme": "_builtin_default",
-    "left_frame_width": 370
+    "color_theme": "_builtin_default"
   },
   "color_picker": {
     "default_tab": 0
@@ -34,19 +33,6 @@
   "meta": {
     "version": 0
   },
-  "pcm": {
-    "check_for_updates": true,
-    "last_download_dir": "",
-    "lib_auto_add": true,
-    "lib_auto_remove": true,
-    "lib_prefix": "PCM_",
-    "repositories": [
-      {
-        "name": "KiCad official repository",
-        "url": "https://repository.kicad.org/repository.json"
-      }
-    ]
-  },
   "printing": {
     "background": false,
     "color_theme": "",
@@ -57,28 +43,11 @@
     "use_theme": false
   },
   "system": {
-    "check_for_kicad_updates": true,
-    "file_history": [
-      "/home/wldmzex/Kicad_project/Project/LunarShip/LunarShip.kicad_pro",
-      "/home/wldmzex/Kicad_project/Project/ME_V1/ME_V1.kicad_pro",
-      "/home/wldmzex/Kicad_project/Project/Red_Mage_V2/Red_Mage_V2.kicad_pro",
-      "/home/wldmzex/Kicad_project/Project/wldFOC-V1/wldFOC-V0.2.kicad_pro",
-      "/home/wldmzex/Kicad_project/Project/FOC_MOUDLE/FOC_MOUDLE.kicad_pro",
-      "/home/wldmzex/Kicad_project/Project/V851S/V851S.kicad_pro",
-      "/home/wldmzex/Kicad_project/Project/CH32v003_IRON/CH32v003_IRON.kicad_pro",
-      "/home/wldmzex/Kicad_project/Project/LVGL_EXP/LVGL_EXP.kicad_pro",
-      "/home/wldmzex/Kicad_project/Project/wldFOC-V0.2/wldFOC-V0.2.kicad_pro"
-    ],
+    "file_history": [],
     "first_run_shown": false,
     "last_imperial_units": 5,
     "last_metric_units": 1,
-    "last_received_update": "",
-    "last_update_check_time": "2025-02-25T15:36:08",
     "max_undo_items": 0,
-    "open_projects": [
-      "/home/wldmzex/Kicad_project/Project/LunarShip/LunarShip.kicad_pro"
-    ],
-    "show_import_issues": true,
     "units": 1
   },
   "window": {
@@ -223,13 +192,13 @@
       "user_grid_x": "",
       "user_grid_y": ""
     },
-    "maximized": true,
-    "mru_path": "/home/wldmzex/Kicad_project/Project/LunarShip/",
-    "perspective": "layout2|name=MainToolbar;caption=;state=139596;dir=4;layer=2;row=0;pos=0;prop=100000;bestw=34;besth=227;minw=-1;minh=-1;maxw=-1;maxh=-1;floatx=-1;floaty=-1;floatw=-1;floath=-1|name=ProjectTree;caption=Project Files;state=1532;dir=4;layer=1;row=0;pos=0;prop=100000;bestw=370;besth=-1;minw=250;minh=-1;maxw=-1;maxh=-1;floatx=-1;floaty=-1;floatw=-1;floath=-1|name=Launcher;caption=Editors;state=508;dir=5;layer=0;row=0;pos=0;prop=100000;bestw=737;besth=542;minw=737;minh=542;maxw=-1;maxh=-1;floatx=-1;floaty=-1;floatw=-1;floath=-1|dock_size(4,2,0)=34|dock_size(4,1,0)=370|dock_size(5,0,0)=737|",
+    "maximized": false,
+    "mru_path": "",
+    "perspective": "",
     "pos_x": 0,
     "pos_y": 0,
-    "size_x": 956,
-    "size_y": 1036,
+    "size_x": 0,
+    "size_y": 0,
     "zoom_factors": []
   }
 }

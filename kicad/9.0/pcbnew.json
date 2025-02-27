@@ -17,17 +17,20 @@
     "appearance_expand_layer_display": true,
     "appearance_expand_net_display": false,
     "appearance_panel_tab": 0,
-    "properties_panel_width": 20,
+    "net_inspector_width": -1,
+    "properties_panel_width": 300,
     "properties_splitter_proportion": 0.5,
     "right_panel_width": 187,
     "search_panel_dock_direction": 3,
-    "search_panel_height": 50,
-    "search_panel_width": 40,
+    "search_panel_height": 110,
+    "search_panel_width": 284,
     "show_layer_manager": true,
-    "show_properties": false,
+    "show_net_inspector": false,
+    "show_properties": true,
     "show_search": false
   },
   "cleanup": {
+    "cleanup_refill_zones": true,
     "cleanup_short_circuits": true,
     "cleanup_tracks_in_pad": false,
     "cleanup_unconnected": true,
@@ -80,6 +83,11 @@
     "ref_y": 0.0,
     "units_mils": false
   },
+  "export_odb": {
+    "compress_format": 1,
+    "precision": 6,
+    "units": 0
+  },
   "export_step": {
     "no_dnp": false,
     "no_unspecified": false,
@@ -103,6 +111,8 @@
   },
   "export_vrml": {
     "copy_3d_models": false,
+    "no_dnp": false,
+    "no_unspecified": false,
     "origin_mode": 0,
     "ref_units": 0,
     "ref_x": 0.0,
@@ -123,12 +133,12 @@
   },
   "footprint_chooser": {
     "filter_on_pin_count": false,
-    "height": 1050,
-    "sash_h": 1226,
-    "sash_v": 292,
+    "height": 837,
+    "sash_h": 1030,
+    "sash_v": 422,
     "sort_mode": 0,
     "use_fp_filters": false,
-    "width": 1863
+    "width": 1569
   },
   "footprint_viewer": {
     "autozoom": true,
@@ -442,6 +452,7 @@
   },
   "gen_drill": {
     "drill_file_type": 0,
+    "generate_map": false,
     "map_file_type": 0,
     "merge_pth_npth": false,
     "minimal_header": false,
@@ -471,7 +482,7 @@
   },
   "lib_tree": {
     "column_widths": {
-      "Description": 306,
+      "Description": 721,
       "Item": 307
     },
     "columns": [
@@ -575,6 +586,9 @@
     "pads_drill_mode": 2,
     "ps_fine_width_adjust": 1e-06
   },
+  "plugins": {
+    "actions": []
+  },
   "printing": {
     "background": false,
     "color_theme": "",
@@ -600,8 +614,12 @@
     "annotate_sort_code": 0,
     "annotate_sort_on_modules": true
   },
+  "search_pane": {
+    "selection_zoom": 1
+  },
   "system": {
     "file_history": [
+      "/home/wldmzex/Kicad_project/Project/lamp_proj/lamp_proj.kicad_pcb",
       "/home/wldmzex/Kicad_project/Project/LunarShip/LunarShip.kicad_pcb",
       "/home/wldmzex/Kicad_project/Project/ME_V1/ME_V1.kicad_pcb",
       "/home/wldmzex/Kicad_project/Project/Setting_JP.kicad_pcb",
@@ -609,12 +627,11 @@
       "/home/wldmzex/Kicad_project/Project/EndedProject/wldnetcontroller/wldnetcontroller.kicad_pcb",
       "/home/wldmzex/Kicad_project/Project/EndedProject/Multply_Board_1/Multply_Board_1.kicad_pcb",
       "/home/wldmzex/Kicad_project/Project/Red_Mage_V2/Red_Mage_V2.kicad_pcb",
-      "/home/wldmzex/Kicad_project/Project/wldFOC-V1/wldFOC-V0.2.kicad_pcb",
-      "/home/wldmzex/Kicad_project/Project/CH32v003_IRON/CH32v003_IRON.kicad_pcb"
+      "/home/wldmzex/Kicad_project/Project/wldFOC-V1/wldFOC-V0.2.kicad_pcb"
     ],
     "first_run_shown": false,
     "last_footprint3d_dir": "${WLDLIB}/kicad-packages3D/Package_SON.3dshapes",
-    "last_footprint_lib_dir": "/home/wldmzex/Downloads",
+    "last_footprint_lib_dir": "${WLDLIB}/Lib/wldMisc.pretty",
     "last_imperial_units": 5,
     "last_metric_units": 1,
     "max_undo_items": 0,
@@ -662,7 +679,7 @@
       "axes_enabled": false,
       "fast_grid_1": 11,
       "fast_grid_2": 21,
-      "last_size": 10,
+      "last_size": 21,
       "line_width": 1.0,
       "min_spacing": 10.0,
       "override_connected": false,
@@ -795,12 +812,12 @@
       "user_grid_y": ""
     },
     "maximized": true,
-    "mru_path": "",
-    "perspective": "layout2|name=InfoBar;caption=;state=131454;dir=1;layer=1;row=0;pos=0;prop=100000;bestw=20;besth=30;minw=-1;minh=-1;maxw=-1;maxh=-1;floatx=-1;floaty=-1;floatw=-1;floath=-1|name=MainToolbar;caption=;state=139632;dir=1;layer=6;row=0;pos=0;prop=100000;bestw=1026;besth=34;minw=-1;minh=-1;maxw=-1;maxh=-1;floatx=-1;floaty=-1;floatw=-1;floath=-1|name=AuxToolbar;caption=;state=139644;dir=1;layer=5;row=0;pos=0;prop=100000;bestw=1244;besth=38;minw=-1;minh=-1;maxw=-1;maxh=-1;floatx=-1;floaty=-1;floatw=-1;floath=-1|name=MsgPanel;caption=;state=131452;dir=3;layer=6;row=0;pos=0;prop=100000;bestw=400;besth=34;minw=-1;minh=-1;maxw=-1;maxh=-1;floatx=-1;floaty=-1;floatw=-1;floath=-1|name=OptToolbar;caption=;state=139596;dir=4;layer=3;row=0;pos=0;prop=100000;bestw=34;besth=670;minw=-1;minh=-1;maxw=-1;maxh=-1;floatx=-1;floaty=-1;floatw=-1;floath=-1|name=ToolsToolbar;caption=;state=139596;dir=2;layer=3;row=0;pos=0;prop=100000;bestw=34;besth=675;minw=-1;minh=-1;maxw=-1;maxh=-1;floatx=-1;floaty=-1;floatw=-1;floath=-1|name=LayersManager;caption=外观;state=1534;dir=2;layer=4;row=0;pos=0;prop=100000;bestw=180;besth=-1;minw=180;minh=-1;maxw=-1;maxh=-1;floatx=-1;floaty=-1;floatw=-1;floath=-1|name=SelectionFilter;caption=选择筛选器;state=1532;dir=2;layer=4;row=0;pos=1;prop=0;bestw=180;besth=-1;minw=180;minh=-1;maxw=-1;maxh=-1;floatx=-1;floaty=-1;floatw=-1;floath=-1|name=PropertiesManager;caption=属性;state=1534;dir=4;layer=5;row=0;pos=0;prop=100000;bestw=300;besth=200;minw=240;minh=60;maxw=-1;maxh=-1;floatx=-1;floaty=-1;floatw=-1;floath=-1|name=DrawFrame;caption=;state=1020;dir=5;layer=0;row=0;pos=0;prop=100000;bestw=400;besth=194;minw=-1;minh=-1;maxw=-1;maxh=-1;floatx=-1;floaty=-1;floatw=-1;floath=-1|name=Search;caption=搜索;state=2098686;dir=3;layer=0;row=0;pos=0;prop=100000;bestw=180;besth=100;minw=180;minh=60;maxw=-1;maxh=-1;floatx=-1;floaty=-1;floatw=480;floath=200|dock_size(1,6,0)=34|dock_size(1,5,0)=38|dock_size(3,6,0)=34|dock_size(4,3,0)=34|dock_size(2,3,0)=34|dock_size(2,4,0)=187|dock_size(5,0,0)=384|",
-    "pos_x": 1440,
-    "pos_y": 0,
-    "size_x": 1280,
-    "size_y": 720,
+    "mru_path": "/home/wldmzex/.config/kicad/8.0",
+    "perspective": "layout2|name=InfoBar;caption=;state=131454;dir=1;layer=1;row=0;pos=0;prop=100000;bestw=20;besth=30;minw=-1;minh=-1;maxw=-1;maxh=-1;floatx=-1;floaty=-1;floatw=-1;floath=-1|name=MainToolbar;caption=;state=139632;dir=1;layer=6;row=0;pos=0;prop=100000;bestw=1026;besth=34;minw=-1;minh=-1;maxw=-1;maxh=-1;floatx=-1;floaty=-1;floatw=-1;floath=-1|name=AuxToolbar;caption=;state=139644;dir=1;layer=5;row=0;pos=0;prop=100000;bestw=1060;besth=35;minw=-1;minh=-1;maxw=-1;maxh=-1;floatx=-1;floaty=-1;floatw=-1;floath=-1|name=MsgPanel;caption=;state=131452;dir=3;layer=6;row=0;pos=0;prop=100000;bestw=400;besth=34;minw=-1;minh=-1;maxw=-1;maxh=-1;floatx=-1;floaty=-1;floatw=-1;floath=-1|name=OptToolbar;caption=;state=139596;dir=4;layer=3;row=0;pos=0;prop=100000;bestw=34;besth=670;minw=-1;minh=-1;maxw=-1;maxh=-1;floatx=-1;floaty=-1;floatw=-1;floath=-1|name=ToolsToolbar;caption=;state=139596;dir=2;layer=3;row=0;pos=0;prop=100000;bestw=34;besth=739;minw=-1;minh=-1;maxw=-1;maxh=-1;floatx=-1;floaty=-1;floatw=-1;floath=-1|name=LayersManager;caption=外观;state=1532;dir=2;layer=4;row=0;pos=0;prop=100000;bestw=180;besth=-1;minw=180;minh=-1;maxw=-1;maxh=-1;floatx=-1;floaty=-1;floatw=180;floath=-1|name=SelectionFilter;caption=选择筛选器;state=1532;dir=2;layer=4;row=0;pos=1;prop=0;bestw=180;besth=-1;minw=180;minh=-1;maxw=-1;maxh=-1;floatx=-1;floaty=-1;floatw=180;floath=-1|name=PropertiesManager;caption=属性;state=2098684;dir=4;layer=5;row=0;pos=0;prop=100000;bestw=300;besth=200;minw=240;minh=60;maxw=-1;maxh=-1;floatx=-1;floaty=-1;floatw=300;floath=200|name=DrawFrame;caption=;state=1020;dir=5;layer=0;row=0;pos=0;prop=100000;bestw=400;besth=194;minw=-1;minh=-1;maxw=-1;maxh=-1;floatx=-1;floaty=-1;floatw=-1;floath=-1|name=NetInspector;caption=网络检查;state=2098686;dir=3;layer=0;row=0;pos=0;prop=100000;bestw=300;besth=200;minw=240;minh=60;maxw=-1;maxh=-1;floatx=-1;floaty=-1;floatw=300;floath=200|name=Search;caption=搜索;state=2098686;dir=3;layer=0;row=0;pos=0;prop=100000;bestw=180;besth=100;minw=180;minh=60;maxw=-1;maxh=-1;floatx=-1;floaty=-1;floatw=480;floath=200|dock_size(1,6,0)=34|dock_size(1,5,0)=35|dock_size(3,6,0)=34|dock_size(4,3,0)=34|dock_size(2,3,0)=34|dock_size(2,4,0)=187|dock_size(5,0,0)=384|dock_size(4,5,0)=300|",
+    "pos_x": 0,
+    "pos_y": 42,
+    "size_x": 636,
+    "size_y": 1036,
     "zoom_factors": [
       0.13,
       0.22,
