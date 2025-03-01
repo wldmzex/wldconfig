@@ -1,7 +1,7 @@
 {
   "appearance": {
     "color_theme": "_builtin_default",
-    "left_frame_width": 0
+    "left_frame_width": 250
   },
   "color_picker": {
     "default_tab": 0
@@ -65,8 +65,8 @@
   "system": {
     "check_for_kicad_updates": true,
     "file_history": [
-      "/home/wldmzex/Kicad_project/Project/lamp_proj/lamp_proj.kicad_pro",
       "/home/wldmzex/Kicad_project/Project/LunarShip/LunarShip.kicad_pro",
+      "/home/wldmzex/Kicad_project/Project/lamp_proj/lamp_proj.kicad_pro",
       "/home/wldmzex/Kicad_project/Project/ME_V1/ME_V1.kicad_pro",
       "/home/wldmzex/Kicad_project/Project/Red_Mage_V2/Red_Mage_V2.kicad_pro",
       "/home/wldmzex/Kicad_project/Project/wldFOC-V1/wldFOC-V0.2.kicad_pro",
@@ -80,10 +80,10 @@
     "last_imperial_units": 5,
     "last_metric_units": 1,
     "last_received_update": "",
-    "last_update_check_time": "2025-02-27T15:48:33",
+    "last_update_check_time": "2025-03-01T00:28:57",
     "max_undo_items": 0,
     "open_projects": [
-      "/home/wldmzex/Kicad_project/Project/lamp_proj/lamp_proj.kicad_pro"
+      "/home/wldmzex/Kicad_project/Project/LunarShip/LunarShip.kicad_pro"
     ],
     "show_import_issues": true,
     "units": 1
@@ -242,13 +242,13 @@
       "user_grid_x": "",
       "user_grid_y": ""
     },
-    "maximized": true,
-    "mru_path": "/home/wldmzex/Kicad_project/Project/lamp_proj/",
-    "perspective": "layout2|name=ProjectTree;caption=工程文件;state=1532;dir=4;layer=1;row=0;pos=0;prop=100000;bestw=250;besth=-1;minw=250;minh=-1;maxw=-1;maxh=-1;floatx=-1;floaty=-1;floatw=-1;floath=-1|name=Editors;caption=Editors;state=508;dir=5;layer=0;row=0;pos=0;prop=100000;bestw=725;besth=590;minw=725;minh=590;maxw=-1;maxh=-1;floatx=-1;floaty=-1;floatw=-1;floath=-1|name=MainToolbar;caption=;state=139596;dir=4;layer=2;row=0;pos=0;prop=100000;bestw=34;besth=227;minw=-1;minh=-1;maxw=-1;maxh=-1;floatx=-1;floaty=-1;floatw=-1;floath=-1|dock_size(4,2,0)=10|dock_size(4,1,0)=250|dock_size(5,0,0)=725|",
+    "maximized": false,
+    "mru_path": "/home/wldmzex/Kicad_project/Project/LunarShip/",
+    "perspective": "layout2|name=MainToolbar;caption=;state=139596;dir=4;layer=2;row=0;pos=0;prop=100000;bestw=34;besth=227;minw=-1;minh=-1;maxw=-1;maxh=-1;floatx=-1;floaty=-1;floatw=-1;floath=-1|name=ProjectTree;caption=工程文件;state=1532;dir=4;layer=1;row=0;pos=0;prop=100000;bestw=250;besth=-1;minw=250;minh=-1;maxw=-1;maxh=-1;floatx=-1;floaty=-1;floatw=-1;floath=-1|name=Editors;caption=编辑器;state=508;dir=5;layer=0;row=0;pos=0;prop=100000;bestw=700;besth=590;minw=700;minh=590;maxw=-1;maxh=-1;floatx=-1;floaty=-1;floatw=-1;floath=-1|dock_size(4,2,0)=34|dock_size(4,1,0)=250|dock_size(5,0,0)=700|",
     "pos_x": 0,
-    "pos_y": 42,
-    "size_x": 636,
-    "size_y": 1036,
+    "pos_y": 0,
+    "size_x": 1916,
+    "size_y": 1032,
     "zoom_factors": []
   }
 }

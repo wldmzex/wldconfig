@@ -21,6 +21,7 @@ prepend_rules = [
 	{ name = "*.pdf", use = "pdf_open" },
 	{ name = "*.ioc", use = "cubemx" },
 	{ name = "*.kicad_sch", use = "kicad_sch_open" },
+	{ name = "*.wldlablog", use = "edit" },
 ]
 
 #[[plugin.prepend_fetchers]]

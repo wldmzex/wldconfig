@@ -106,18 +106,18 @@
     "zoom_to_fit": true
   },
   "design_block_chooser": {
-    "height": 899,
+    "height": 895,
     "keep_annotations": false,
     "lib_tree": {
       "column_widths": {
-        "Description": 340,
+        "Description": 160,
         "Item": 227
       }
     },
     "place_as_sheet": false,
     "repeated_placement": false,
     "sash_pos_h": 440,
-    "sash_pos_v": 794,
+    "sash_pos_v": 790,
     "sort_mode": 0,
     "width": 309
   },
@@ -207,16 +207,14 @@
   },
   "lib_tree": {
     "column_widths": {
-      "Description": 673,
+      "Description": 662,
       "Item": 205
     },
     "columns": [
       "Item",
       "Description"
     ],
-    "open_libs": [
-      "wldInterface"
-    ]
+    "open_libs": []
   },
   "lib_view": {
     "cmp_list_width": 150,
@@ -328,6 +326,7 @@
   },
   "system": {
     "file_history": [
+      "/home/wldmzex/Kicad_project/Project/LunarShip/LunarShip.kicad_sch",
       "/home/wldmzex/Kicad_project/Project/lamp_proj/lamp_proj.kicad_sch",
       "/home/wldmzex/Kicad_project/Project/CH32v003_testboard/CH32v003_testboard.kicad_sch",
       "/home/wldmzex/Kicad_project/Project/A_MOUDULE/MOTOR/STEPPER_DRIVER.kicad_sch",
@@ -335,8 +334,7 @@
       "/home/wldmzex/Kicad_project/Project/A_MOUDULE/POWER_SCH/SX1308_5V-12V.kicad_sch",
       "/home/wldmzex/Kicad_project/Project/A_MOUDULE/POWER_SCH/XL4016.kicad_sch",
       "/home/wldmzex/Kicad_project/Project/A_MOUDULE/POWER_SCH/XL4015.kicad_sch",
-      "/home/wldmzex/Kicad_project/Project/A_MOUDULE/SENSOR/TLE5012B.kicad_sch",
-      "/home/wldmzex/Kicad_project/Project/A_MOUDULE/SENSOR/INA199.kicad_sch"
+      "/home/wldmzex/Kicad_project/Project/A_MOUDULE/SENSOR/TLE5012B.kicad_sch"
     ],
     "first_run_shown": false,
     "last_imperial_units": 5,
@@ -399,13 +397,13 @@
       "user_grid_x": "",
       "user_grid_y": ""
     },
-    "maximized": true,
+    "maximized": false,
     "mru_path": "",
-    "perspective": "layout2|name=InfoBar;caption=;state=131454;dir=1;layer=1;row=0;pos=0;prop=100000;bestw=20;besth=30;minw=-1;minh=-1;maxw=-1;maxh=-1;floatx=-1;floaty=-1;floatw=-1;floath=-1|name=MainToolbar;caption=;state=139632;dir=1;layer=6;row=0;pos=0;prop=100000;bestw=1172;besth=34;minw=-1;minh=-1;maxw=-1;maxh=-1;floatx=-1;floaty=-1;floatw=-1;floath=-1|name=MsgPanel;caption=;state=131452;dir=3;layer=6;row=0;pos=0;prop=100000;bestw=400;besth=34;minw=-1;minh=-1;maxw=-1;maxh=-1;floatx=-1;floaty=-1;floatw=-1;floath=-1|name=SchematicHierarchy;caption=原理图层次结构;state=2099148;dir=4;layer=3;row=0;pos=1;prop=100000;bestw=371;besth=200;minw=120;minh=60;maxw=-1;maxh=-1;floatx=423;floaty=87;floatw=200;floath=200|name=PropertiesManager;caption=属性;state=2099148;dir=4;layer=3;row=0;pos=0;prop=100000;bestw=300;besth=200;minw=240;minh=60;maxw=-1;maxh=-1;floatx=50;floaty=200;floatw=300;floath=400|name=SelectionFilter;caption=选择筛选器;state=2098636;dir=4;layer=3;row=0;pos=2;prop=0;bestw=180;besth=-1;minw=180;minh=-1;maxw=-1;maxh=-1;floatx=-1;floaty=-1;floatw=-1;floath=-1|name=DesignBlocks;caption=设计图块;state=2099148;dir=2;layer=3;row=0;pos=0;prop=100000;bestw=300;besth=200;minw=240;minh=60;maxw=-1;maxh=-1;floatx=50;floaty=200;floatw=800;floath=600|name=NetNavigator;caption=Net Navigator;state=2099150;dir=4;layer=3;row=0;pos=0;prop=100000;bestw=200;besth=200;minw=120;minh=60;maxw=-1;maxh=-1;floatx=50;floaty=200;floatw=200;floath=200|name=OptToolbar;caption=;state=139596;dir=4;layer=2;row=0;pos=0;prop=100000;bestw=34;besth=460;minw=-1;minh=-1;maxw=-1;maxh=-1;floatx=-1;floaty=-1;floatw=-1;floath=-1|name=ToolsToolbar;caption=;state=139596;dir=2;layer=2;row=0;pos=0;prop=100000;bestw=34;besth=890;minw=-1;minh=-1;maxw=-1;maxh=-1;floatx=-1;floaty=-1;floatw=-1;floath=-1|name=DrawFrame;caption=;state=1020;dir=5;layer=0;row=0;pos=0;prop=100000;bestw=400;besth=194;minw=-1;minh=-1;maxw=-1;maxh=-1;floatx=-1;floaty=-1;floatw=-1;floath=-1|name=Search;caption=搜索;state=2098686;dir=3;layer=0;row=0;pos=0;prop=100000;bestw=180;besth=100;minw=180;minh=60;maxw=-1;maxh=-1;floatx=-1;floaty=-1;floatw=480;floath=200|dock_size(1,6,0)=34|dock_size(3,6,0)=34|dock_size(4,3,0)=373|dock_size(2,3,0)=311|dock_size(4,2,0)=34|dock_size(2,2,0)=34|dock_size(5,0,0)=286|",
+    "perspective": "layout2|name=InfoBar;caption=;state=131454;dir=1;layer=1;row=0;pos=0;prop=100000;bestw=20;besth=30;minw=-1;minh=-1;maxw=-1;maxh=-1;floatx=-1;floaty=-1;floatw=-1;floath=-1|name=MainToolbar;caption=;state=139632;dir=1;layer=6;row=0;pos=0;prop=100000;bestw=1172;besth=34;minw=-1;minh=-1;maxw=-1;maxh=-1;floatx=-1;floaty=-1;floatw=-1;floath=-1|name=MsgPanel;caption=;state=131452;dir=3;layer=6;row=0;pos=0;prop=100000;bestw=400;besth=34;minw=-1;minh=-1;maxw=-1;maxh=-1;floatx=-1;floaty=-1;floatw=-1;floath=-1|name=SchematicHierarchy;caption=原理图层次结构;state=2099148;dir=4;layer=3;row=0;pos=1;prop=100000;bestw=371;besth=200;minw=120;minh=60;maxw=-1;maxh=-1;floatx=389;floaty=45;floatw=200;floath=200|name=PropertiesManager;caption=属性;state=2099148;dir=4;layer=3;row=0;pos=0;prop=100000;bestw=300;besth=200;minw=240;minh=60;maxw=-1;maxh=-1;floatx=50;floaty=200;floatw=300;floath=400|name=SelectionFilter;caption=选择筛选器;state=2098636;dir=4;layer=3;row=0;pos=2;prop=0;bestw=180;besth=-1;minw=180;minh=-1;maxw=-1;maxh=-1;floatx=-1;floaty=-1;floatw=-1;floath=-1|name=DesignBlocks;caption=设计图块;state=2099148;dir=2;layer=3;row=0;pos=0;prop=100000;bestw=300;besth=200;minw=240;minh=60;maxw=-1;maxh=-1;floatx=50;floaty=200;floatw=800;floath=600|name=NetNavigator;caption=网络导航;state=2099150;dir=4;layer=3;row=0;pos=0;prop=100000;bestw=200;besth=200;minw=120;minh=60;maxw=-1;maxh=-1;floatx=50;floaty=200;floatw=200;floath=200|name=OptToolbar;caption=;state=139596;dir=4;layer=2;row=0;pos=0;prop=100000;bestw=34;besth=460;minw=-1;minh=-1;maxw=-1;maxh=-1;floatx=-1;floaty=-1;floatw=-1;floath=-1|name=ToolsToolbar;caption=;state=139596;dir=2;layer=2;row=0;pos=0;prop=100000;bestw=34;besth=890;minw=-1;minh=-1;maxw=-1;maxh=-1;floatx=-1;floaty=-1;floatw=-1;floath=-1|name=DrawFrame;caption=;state=1020;dir=5;layer=0;row=0;pos=0;prop=100000;bestw=400;besth=194;minw=-1;minh=-1;maxw=-1;maxh=-1;floatx=-1;floaty=-1;floatw=-1;floath=-1|name=Search;caption=搜索;state=2098686;dir=3;layer=0;row=0;pos=0;prop=100000;bestw=180;besth=100;minw=180;minh=60;maxw=-1;maxh=-1;floatx=-1;floaty=-1;floatw=480;floath=200|dock_size(1,6,0)=34|dock_size(3,6,0)=34|dock_size(4,3,0)=373|dock_size(2,3,0)=311|dock_size(4,2,0)=34|dock_size(2,2,0)=34|dock_size(5,0,0)=190|",
     "pos_x": 0,
-    "pos_y": 42,
-    "size_x": 636,
-    "size_y": 1036,
+    "pos_y": 0,
+    "size_x": 1916,
+    "size_y": 1032,
     "zoom_factors": [
       0.05,
       0.07,

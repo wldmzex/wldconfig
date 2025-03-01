@@ -14,7 +14,8 @@ exec_always fcitx5
 exec_always xinput disable "SynPS/2 Synaptics TouchPad"
 exec_always setxkbmap us -variant colemak
 exec_always setxkbmap -option "caps:escape"
-exec_always feh --bg-fill ~/Pictures/wallpaper/50DF2A87E9383EB90312EB202EEE169B.png
+#exec_always feh --bg-fill ~/Pictures/wallpaper/50DF2A87E9383EB90312EB202EEE169B.png
+exec_always feh --bg-fill ~/Pictures/wallpaper/wldIndustry.png
 
 
 

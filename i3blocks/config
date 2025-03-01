@@ -1,9 +1,12 @@
+[power_profile]
+command=bash ~/.config/script/i3blocks_getpowerprofile.sh | awk '(NR==2)'
+interval=once
 [time]
 command=date +%T
 interval=1
 [battery]
-command=bash ~/.config/script/getbatterypersent.sh
+command=bash ~/.config/script/i3blocks_getbatterypersent.sh
 interval=30
 [ac_power]
-command=bash ~/.config/script/getaconlinestatus.sh
+command=bash ~/.config/script/i3blocks_getaconlinestatus.sh
 interval=30
