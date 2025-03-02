@@ -40,7 +40,7 @@
   },
   "graphics": {
     "cairo_antialiasing_mode": 0,
-    "opengl_antialiasing_mode": 1
+    "opengl_antialiasing_mode": 0
   },
   "input": {
     "auto_pan": true,
@@ -90,6 +90,6 @@
     "pdf_viewer_name": "",
     "text_editor": "",
     "use_system_pdf_viewer": true,
-    "working_dir": "/home/wldmzex/Kicad_project/Project/LunarShip"
+    "working_dir": "/home/wldmzex/Kicad_project/Project/lamp_proj"
   }
 }

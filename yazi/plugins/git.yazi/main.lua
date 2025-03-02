@@ -132,7 +132,7 @@ local function setup(st, opts)
 	local signs = {
 		[6] = t.modified_sign and t.modified_sign or "",
 		[5] = t.added_sign and t.added_sign or "",
-		[4] = t.untracked_sign and t.untracked_sign or "?",
+		[4] = t.untracked_sign and t.untracked_sign or "",
 		[3] = t.ignored_sign and t.ignored_sign or "",
 		[2] = t.deleted_sign and t.deleted_sign or "",
 		[1] = t.updated_sign and t.updated_sign or "U",
@@ -149,9 +149,9 @@ local function setup(st, opts)
 		if not change or signs[change] == "" then
 			return ""
 		elseif self._file:is_hovered() then
-			return ui.Line({ " ", signs[change] })
+			return ui.Line { " ", signs[change] }
 		else
-			return ui.Line({ " ", ui.Span(signs[change]):style(styles[change]) })
+			return ui.Line { " ", ui.Span(signs[change]):style(styles[change]) }
 		end
 	end, opts.order)
 end

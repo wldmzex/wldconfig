@@ -1,6 +1,12 @@
 [power_profile]
+command=bash ~/.config/script/i3blocks_getcpuinfo.sh
+interval=1
+[power_profile]
 command=bash ~/.config/script/i3blocks_getpowerprofile.sh | awk '(NR==2)'
 interval=once
+[sys_mem_info]
+command=bash ~/.config/script/i3blocks_getmeminfo.sh 
+interval=1
 [time]
 command=date +%T
 interval=1
