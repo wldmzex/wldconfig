@@ -29,13 +29,16 @@
   },
   "environment": {
     "vars": {
+      "KICAD9_3DMODEL_DIR": "/home/wldmzex/Kicad_project/kicad-packages3D",
       "WLDLIB": "/home/wldmzex/Kicad_project"
     }
   },
   "git": {
     "authorEmail": "",
     "authorName": "",
+    "enableGit": true,
     "repositories": null,
+    "updatInterval": 5,
     "useDefaultAuthor": true
   },
   "graphics": {
@@ -73,7 +76,7 @@
     "sash_pos": 160
   },
   "package_manager": {
-    "sash_pos": 519
+    "sash_pos": 440
   },
   "session": {
     "pinned_design_block_libs": [],
@@ -90,6 +93,6 @@
     "pdf_viewer_name": "",
     "text_editor": "",
     "use_system_pdf_viewer": true,
-    "working_dir": "/home/wldmzex/Kicad_project/Project/lamp_proj"
+    "working_dir": "/home/wldmzex/Kicad_project/Project/esp32c2_launchpad"
   }
 }

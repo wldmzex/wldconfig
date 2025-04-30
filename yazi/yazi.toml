@@ -23,6 +23,13 @@ prepend_rules = [
 	{ name = "*.kicad_sch", use = "kicad_sch_open" },
 	{ name = "*.wldlablog", use = "edit" },
 ]
+[preview]
+previewer=[
+  { name = "*.wldlablog", exec = "code", sync = true },
+]
+[[plugin.prepend_previewers]]
+name = "*.wldlablog"
+run  = "code"
 
 #[[plugin.prepend_fetchers]]
 #id   = "git"

@@ -10,7 +10,7 @@ prepend_keymap = [
   { on = "E", run = "arrow 5", desc = "Move cursor up 5 rows"},
   { on = "<C-E>", run = "arrow 50%", desc = "Move cursor up half page"},
   { on = ["g", "u"], run = "arrow top", desc = "Move cursor to the top" },
-  { on = ["g", "e"], run = "arrow bot", desc = "Move cursor to the Button" },
+  { on = ["g", "e"], run = "arrow bot", desc = "Move cursor to the Bottom" },
   #{ on = "S", run = 'suspend' },
   { on = "S", run = 'shell "$SHELL" --block --confirm' },
   #FAST DIRECTORY Movement
@@ -18,10 +18,17 @@ prepend_keymap = [
   { on = ["g", "T"], run = "cd /wldstorage/downloads/transmission/complete/", desc = "GO 2 transmission Downloads" },
   { on = ["g", "f"], run = "cd ~/EmbeddedProject", desc = "GO 2 EmbeddedProject" },
   { on = ["g", "s"], run = "cd ~/Software_Project/", desc = "GO 2 Software_Project" },
-  { on = ["g", "m"], run = "cd ~/Documents", desc = "GO 2 Documents " },
+  { on = ["g", "S"], run = "cd /wldstorage/Nginx_Share/SHARE/", desc = "GO 2 Share" },
+  { on = ["g", "m"], run = "cd /wldstorage/Documents", desc = "GO 2 Documents " },
+  { on = ["g", "w"], run = "cd ~/WebProjects/", desc = "GO 2 Web project " },
+  { on = ["g", "b"], run = "cd ~/BackEndProject/", desc = "GO 2 BackEndProject project " },
+  { on = ["g", "k"], run = "cd ~/Kicad_project/", desc = "GO 2 wldKicadDir" },
+  { on = ["g", "p"], run = "cd ~/Pictures/", desc = "GO 2 Pictures" },
+  { on = ["g","L"], run = "cd ~/IDK_Learning/", desc = "GO 2 wldEmbeddedLib" },
   { on = ["g","l", "e"], run = "cd ~/EmbeddedProject/wldembeddeddriver/", desc = "GO 2 wldEmbeddedLib" },
   { on = ["g","l", "k"], run = "cd ~/Kicad_project/Lib/", desc = "GO 2 wldKicadLib" },
   { on = ["g","l", "y"], run = "cd ~/.config/yazi/", desc = "GO 2 Yazi Config" },
+  { on = ["g","l", "l"], run = "cd ~/wldLaboratoryLog/", desc = "GO 2 wldLaboratoryLog" },
   #FINDER
   #Tab_Management
   { on = "1", run = "tab_switch 0", desc = "Switch to the first tab" },
@@ -36,7 +43,7 @@ prepend_keymap = [
 	{ on = ["t","a"], run = "tab_create --current", desc = "create new tab" },
 	{ on = ["t","d"], run = "tab_close --current", desc = "Close current tab" },
   #Task_Management
-  { on = ["t", "t"], run = "tasks_show", desc = "Show Current Tasks" },
+  { on = ["T", "T"], run = "tasks_show", desc = "Show Current Tasks" },
   #Operation Y-copy
   { on = ["y", "y"], run = "yank", desc = "Yank selected files (copy)" },
 	{ on = ["y", "p"], run = "copy path", desc = "Copy the file path" },

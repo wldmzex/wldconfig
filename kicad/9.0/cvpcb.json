@@ -187,7 +187,7 @@
   },
   "lib_tree": {
     "column_widths": {
-      "Description": 924,
+      "Description": 728,
       "Item": 300
     },
     "columns": [
@@ -195,6 +195,7 @@
       "Description"
     ],
     "open_libs": [
+      "Kicad_SO",
       "wldUtil"
     ]
   },

@@ -33,6 +33,9 @@
   "meta": {
     "version": 0
   },
+  "plugins": {
+    "actions": []
+  },
   "printing": {
     "background": false,
     "color_theme": "",
@@ -42,12 +45,16 @@
     "title_block": false,
     "use_theme": false
   },
+  "search_pane": {
+    "selection_zoom": 1
+  },
   "system": {
     "file_history": [],
     "first_run_shown": false,
     "last_imperial_units": 5,
     "last_metric_units": 1,
     "max_undo_items": 0,
+    "show_import_issues": true,
     "units": 1
   },
   "window": {

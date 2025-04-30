@@ -78,7 +78,7 @@
     "highlight_factor": 0.5,
     "select_factor": 0.75
   },
-  "last_page": 1,
+  "last_page": 10,
   "lib_tree": {
     "column_widths": null,
     "columns": [],
@@ -86,6 +86,9 @@
   },
   "meta": {
     "version": 0
+  },
+  "plugins": {
+    "actions": []
   },
   "printing": {
     "background": false,
@@ -98,13 +101,23 @@
   },
   "regulators": {
     "data_file": "",
+    "iadjMax": "100",
+    "iadjTyp": "50",
     "last_param": 2,
     "r1": "51",
     "r2": "16",
+    "resTol": "1",
     "selected_regulator": "",
     "type": 0,
     "vout": "12",
-    "vref": "0.6"
+    "voutTyp": "5",
+    "vref": "0.6",
+    "vrefMax": "1.30",
+    "vrefMin": "1.20",
+    "vrefTyp": "1.25"
+  },
+  "search_pane": {
+    "selection_zoom": 1
   },
   "system": {
     "file_history": [],
@@ -269,30 +282,30 @@
         "Frequency": 0,
         "H": 0,
         "H_t": 0,
-        "L": 0,
+        "L": 3,
         "Rho": 0,
         "Rough": 0,
         "T": 0,
         "TanD": 0,
-        "W": 0,
+        "W": 3,
         "Z0": 0,
         "mu Rel C": 0,
         "mu Rel S": 0
       },
       "values": {
         "": 0.0,
-        "Ang_l": 0.0,
-        "Er": 4.5,
+        "Ang_l": 0.0433944,
+        "Er": 4.1,
         "Frequency": 1.0,
-        "H": 0.2,
+        "H": 0.0994,
         "H_t": 1e+20,
-        "L": 50.0,
+        "L": 49.4242,
         "Rho": 1.72e-08,
         "Rough": 0.0,
         "T": 0.035,
         "TanD": 0.02,
-        "W": 0.2,
-        "Z0": 50.0,
+        "W": 6.1,
+        "Z0": 54.8191,
         "mu Rel C": 1.0,
         "mu Rel S": 1.0
       }
@@ -566,13 +579,13 @@
       "user_grid_x": "",
       "user_grid_y": ""
     },
-    "maximized": true,
+    "maximized": false,
     "mru_path": "",
     "perspective": "layout2|",
-    "pos_x": 2240,
-    "pos_y": 142,
-    "size_x": 1280,
-    "size_y": 795,
+    "pos_x": 0,
+    "pos_y": 0,
+    "size_x": 1916,
+    "size_y": 1032,
     "zoom_factors": []
   }
 }

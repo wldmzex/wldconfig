@@ -65,25 +65,25 @@
   "system": {
     "check_for_kicad_updates": true,
     "file_history": [
-      "/home/wldmzex/Kicad_project/Project/LunarShip/LunarShip.kicad_pro",
-      "/home/wldmzex/Kicad_project/Project/lamp_proj/lamp_proj.kicad_pro",
+      "/home/wldmzex/Kicad_project/Project/esp32c2_launchpad/esp32c2_launchpad.kicad_pro",
+      "/home/wldmzex/Kicad_project/Project/MiniCTRBoard/MiniCTRBoard.kicad_pro",
+      "/home/wldmzex/Kicad_project/Project/esp8266_launchpad/esp8266_launchpad.kicad_pro",
+      "/home/wldmzex/Kicad_project/Project/MiniCTRBoard_LED/MiniCTRBoard_LED.kicad_pro",
+      "/home/wldmzex/Kicad_project/Project/EndedProject/wldFOC-V0.1/wldFOC-V0.1.kicad_pro",
+      "/home/wldmzex/Kicad_project/Project/wldFOC-V0.2/wldFOC-V0.2.kicad_pro",
+      "/home/wldmzex/Kicad_project/Project/EndedProject/PlasticConstructBoard_V2/PlasticConstructBoard_V2.kicad_pro",
       "/home/wldmzex/Kicad_project/Project/ME_V1/ME_V1.kicad_pro",
-      "/home/wldmzex/Kicad_project/Project/Red_Mage_V2/Red_Mage_V2.kicad_pro",
-      "/home/wldmzex/Kicad_project/Project/wldFOC-V1/wldFOC-V0.2.kicad_pro",
-      "/home/wldmzex/Kicad_project/Project/FOC_MOUDLE/FOC_MOUDLE.kicad_pro",
-      "/home/wldmzex/Kicad_project/Project/V851S/V851S.kicad_pro",
-      "/home/wldmzex/Kicad_project/Project/CH32v003_IRON/CH32v003_IRON.kicad_pro",
-      "/home/wldmzex/Kicad_project/Project/LVGL_EXP/LVGL_EXP.kicad_pro"
+      "/home/wldmzex/Kicad_project/Project/EndedProject/keyboard/keyboard.kicad_pro"
     ],
     "first_run_shown": false,
     "last_design_block_lib_dir": "${WLDLIB}/Lib/Moudules/Sensor",
     "last_imperial_units": 5,
     "last_metric_units": 1,
     "last_received_update": "",
-    "last_update_check_time": "2025-03-01T22:06:26",
+    "last_update_check_time": "2025-04-30T12:10:05",
     "max_undo_items": 0,
     "open_projects": [
-      "/home/wldmzex/Kicad_project/Project/LunarShip/LunarShip.kicad_pro"
+      "/home/wldmzex/Kicad_project/Project/esp32c2_launchpad/esp32c2_launchpad.kicad_pro"
     ],
     "show_import_issues": true,
     "units": 1
@@ -243,7 +243,7 @@
       "user_grid_y": ""
     },
     "maximized": false,
-    "mru_path": "/home/wldmzex/Kicad_project/Project/LunarShip/",
+    "mru_path": "/home/wldmzex/Kicad_project/Project/esp32c2_launchpad/",
     "perspective": "layout2|name=MainToolbar;caption=;state=139596;dir=4;layer=2;row=0;pos=0;prop=100000;bestw=34;besth=227;minw=-1;minh=-1;maxw=-1;maxh=-1;floatx=-1;floaty=-1;floatw=-1;floath=-1|name=ProjectTree;caption=工程文件;state=1532;dir=4;layer=1;row=0;pos=0;prop=100000;bestw=250;besth=-1;minw=250;minh=-1;maxw=-1;maxh=-1;floatx=-1;floaty=-1;floatw=-1;floath=-1|name=Editors;caption=编辑器;state=508;dir=5;layer=0;row=0;pos=0;prop=100000;bestw=700;besth=590;minw=700;minh=590;maxw=-1;maxh=-1;floatx=-1;floaty=-1;floatw=-1;floath=-1|dock_size(4,2,0)=34|dock_size(4,1,0)=250|dock_size(5,0,0)=700|",
     "pos_x": 0,
     "pos_y": 0,
