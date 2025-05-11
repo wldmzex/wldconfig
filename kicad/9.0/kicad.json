@@ -66,21 +66,21 @@
     "check_for_kicad_updates": true,
     "file_history": [
       "/home/wldmzex/Kicad_project/Project/esp32c2_launchpad/esp32c2_launchpad.kicad_pro",
+      "/home/wldmzex/Kicad_project/Project/ME_V1/ME_V1.kicad_pro",
+      "/home/wldmzex/Kicad_project/Project/EndedProject/keyboard/keyboard.kicad_pro",
       "/home/wldmzex/Kicad_project/Project/MiniCTRBoard/MiniCTRBoard.kicad_pro",
       "/home/wldmzex/Kicad_project/Project/esp8266_launchpad/esp8266_launchpad.kicad_pro",
       "/home/wldmzex/Kicad_project/Project/MiniCTRBoard_LED/MiniCTRBoard_LED.kicad_pro",
       "/home/wldmzex/Kicad_project/Project/EndedProject/wldFOC-V0.1/wldFOC-V0.1.kicad_pro",
       "/home/wldmzex/Kicad_project/Project/wldFOC-V0.2/wldFOC-V0.2.kicad_pro",
-      "/home/wldmzex/Kicad_project/Project/EndedProject/PlasticConstructBoard_V2/PlasticConstructBoard_V2.kicad_pro",
-      "/home/wldmzex/Kicad_project/Project/ME_V1/ME_V1.kicad_pro",
-      "/home/wldmzex/Kicad_project/Project/EndedProject/keyboard/keyboard.kicad_pro"
+      "/home/wldmzex/Kicad_project/Project/EndedProject/PlasticConstructBoard_V2/PlasticConstructBoard_V2.kicad_pro"
     ],
     "first_run_shown": false,
     "last_design_block_lib_dir": "${WLDLIB}/Lib/Moudules/Sensor",
     "last_imperial_units": 5,
     "last_metric_units": 1,
     "last_received_update": "",
-    "last_update_check_time": "2025-04-30T12:10:05",
+    "last_update_check_time": "2025-05-11T23:52:24",
     "max_undo_items": 0,
     "open_projects": [
       "/home/wldmzex/Kicad_project/Project/esp32c2_launchpad/esp32c2_launchpad.kicad_pro"

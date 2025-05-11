@@ -66,11 +66,12 @@
   },
   "system": {
     "drill_file_history": [
-      "/home/wldmzex/Kicad_project/Project/wld-OpenMV4/wld-OpenMV4/OUTPUT/wld-OpenMV4-PTH.drl",
+      "/home/wldmzex/Kicad_project/Project/Multply_Board_1/OUTPUT/Multply_Board_1-PTH.drl",
       "/home/wldmzex/Kicad_project/Project/wld-OpenMV4/wld-OpenMV4/OUTPUT/wld-OpenMV4-NPTH.drl",
-      "/home/wldmzex/Kicad_project/Project/Multply_Board_1/OUTPUT/Multply_Board_1-PTH.drl"
+      "/home/wldmzex/Kicad_project/Project/wld-OpenMV4/wld-OpenMV4/OUTPUT/wld-OpenMV4-PTH.drl"
     ],
     "file_history": [
+      "/home/wldmzex/Kicad_project/Project/esp32c2_launchpad/output/esp32c2_launchpad-F_Cu.gbr",
       "/home/wldmzex/Kicad_project/Project/ME_V1/output/ME_V1-Edge_Cuts.gm1",
       "/home/wldmzex/Kicad_project/Project/ME_V1/output/ME_V1-B_Mask.gbs",
       "/home/wldmzex/Kicad_project/Project/ME_V1/output/ME_V1-F_Mask.gts",
@@ -78,20 +79,19 @@
       "/home/wldmzex/Kicad_project/Project/ME_V1/output/ME_V1-F_Silkscreen.gto",
       "/home/wldmzex/Kicad_project/Project/ME_V1/output/ME_V1-B_Paste.gbp",
       "/home/wldmzex/Kicad_project/Project/ME_V1/output/ME_V1-F_Paste.gtp",
-      "/home/wldmzex/Kicad_project/Project/ME_V1/output/ME_V1-B_Cu.gbl",
-      "/home/wldmzex/Kicad_project/Project/ME_V1/output/ME_V1-In2_Cu.g3"
+      "/home/wldmzex/Kicad_project/Project/ME_V1/output/ME_V1-B_Cu.gbl"
     ],
     "first_run_shown": false,
     "job_file_history": [
-      "/home/wldmzex/Kicad_project/Project/ME_V1/output/ME_V1-job.gbrjob",
-      "/home/wldmzex/Kicad_project/Project/wldFOC-V0.1/output1/wldFOC-V0.1-job.gbrjob",
-      "/home/wldmzex/Kicad_project/Project/MACHINE_EYE/output/MACHINE_EYE-job.gbrjob",
-      "/home/wldmzex/Kicad_project/Project/Multply_Board_1/OUTPUT/Multply_Board_1-job.gbrjob",
-      "/home/wldmzex/Kicad_project/Project/wld-OpenMV4/wld-OpenMV4/OUTPUT/wld-OpenMV4-job.gbrjob",
-      "/home/wldmzex/Kicad_project/Project/LunarShip/OUTPUT/LunarShip-job.gbrjob",
-      "/home/wldmzex/Kicad_project/First_proj/RedMage_V1/OUTPUT/RedMage_V1-job.gbrjob",
+      "/home/wldmzex/Kicad_project/Project/wldFOC-V0.1/output3/wldFOC-V0.1-job.gbrjob",
       "/home/wldmzex/Kicad_project/Project/RedMage_V1/OUTPUT/RedMage_V1-job.gbrjob",
-      "/home/wldmzex/Kicad_project/Project/wldFOC-V0.1/output3/wldFOC-V0.1-job.gbrjob"
+      "/home/wldmzex/Kicad_project/First_proj/RedMage_V1/OUTPUT/RedMage_V1-job.gbrjob",
+      "/home/wldmzex/Kicad_project/Project/LunarShip/OUTPUT/LunarShip-job.gbrjob",
+      "/home/wldmzex/Kicad_project/Project/wld-OpenMV4/wld-OpenMV4/OUTPUT/wld-OpenMV4-job.gbrjob",
+      "/home/wldmzex/Kicad_project/Project/Multply_Board_1/OUTPUT/Multply_Board_1-job.gbrjob",
+      "/home/wldmzex/Kicad_project/Project/MACHINE_EYE/output/MACHINE_EYE-job.gbrjob",
+      "/home/wldmzex/Kicad_project/Project/wldFOC-V0.1/output1/wldFOC-V0.1-job.gbrjob",
+      "/home/wldmzex/Kicad_project/Project/ME_V1/output/ME_V1-job.gbrjob"
     ],
     "last_imperial_units": 5,
     "last_metric_units": 1,
@@ -242,13 +242,13 @@
       "user_grid_x": "",
       "user_grid_y": ""
     },
-    "maximized": true,
-    "mru_path": "/home/wldmzex/Kicad_project/Project/ME_V1/output",
-    "perspective": "layout2|name=MainToolbar;caption=;state=139632;dir=1;layer=6;row=0;pos=0;prop=100000;bestw=599;besth=36;minw=-1;minh=-1;maxw=-1;maxh=-1;floatx=-1;floaty=-1;floatw=-1;floath=-1|name=AuxToolbar;caption=;state=139644;dir=1;layer=4;row=0;pos=0;prop=100000;bestw=1000;besth=38;minw=-1;minh=-1;maxw=-1;maxh=-1;floatx=-1;floaty=-1;floatw=-1;floath=-1|name=MsgPanel;caption=;state=131452;dir=3;layer=6;row=0;pos=0;prop=100000;bestw=400;besth=34;minw=-1;minh=-1;maxw=-1;maxh=-1;floatx=-1;floaty=-1;floatw=-1;floath=-1|name=OptToolbar;caption=;state=139596;dir=4;layer=3;row=0;pos=0;prop=100000;bestw=34;besth=620;minw=-1;minh=-1;maxw=-1;maxh=-1;floatx=-1;floaty=-1;floatw=-1;floath=-1|name=LayersManager;caption=层管理器;state=1532;dir=2;layer=3;row=0;pos=0;prop=100000;bestw=391;besth=32;minw=391;minh=32;maxw=-1;maxh=-1;floatx=-1;floaty=-1;floatw=391;floath=32|name=DrawFrame;caption=;state=1020;dir=5;layer=0;row=0;pos=0;prop=100000;bestw=400;besth=194;minw=-1;minh=-1;maxw=-1;maxh=-1;floatx=-1;floaty=-1;floatw=-1;floath=-1|dock_size(1,6,0)=36|dock_size(1,4,0)=38|dock_size(3,6,0)=34|dock_size(4,3,0)=34|dock_size(2,3,0)=391|dock_size(5,0,0)=384|",
-    "pos_x": 320,
-    "pos_y": 180,
-    "size_x": 1280,
-    "size_y": 720,
+    "maximized": false,
+    "mru_path": "/home/wldmzex/Kicad_project/Project/esp32c2_launchpad/output",
+    "perspective": "layout2|name=MainToolbar;caption=;state=139632;dir=1;layer=6;row=0;pos=0;prop=100000;bestw=599;besth=36;minw=-1;minh=-1;maxw=-1;maxh=-1;floatx=-1;floaty=-1;floatw=-1;floath=-1|name=AuxToolbar;caption=;state=139644;dir=1;layer=4;row=0;pos=0;prop=100000;bestw=1000;besth=38;minw=-1;minh=-1;maxw=-1;maxh=-1;floatx=-1;floaty=-1;floatw=-1;floath=-1|name=MsgPanel;caption=;state=131452;dir=3;layer=6;row=0;pos=0;prop=100000;bestw=400;besth=34;minw=-1;minh=-1;maxw=-1;maxh=-1;floatx=-1;floaty=-1;floatw=-1;floath=-1|name=OptToolbar;caption=;state=139596;dir=4;layer=3;row=0;pos=0;prop=100000;bestw=34;besth=620;minw=-1;minh=-1;maxw=-1;maxh=-1;floatx=-1;floaty=-1;floatw=-1;floath=-1|name=LayersManager;caption=层管理器;state=1532;dir=2;layer=3;row=0;pos=0;prop=100000;bestw=403;besth=32;minw=403;minh=32;maxw=-1;maxh=-1;floatx=-1;floaty=-1;floatw=403;floath=32|name=DrawFrame;caption=;state=1020;dir=5;layer=0;row=0;pos=0;prop=100000;bestw=400;besth=194;minw=-1;minh=-1;maxw=-1;maxh=-1;floatx=-1;floaty=-1;floatw=-1;floath=-1|dock_size(1,6,0)=36|dock_size(1,4,0)=38|dock_size(3,6,0)=34|dock_size(4,3,0)=34|dock_size(2,3,0)=403|dock_size(5,0,0)=384|",
+    "pos_x": 0,
+    "pos_y": 0,
+    "size_x": 1916,
+    "size_y": 1032,
     "zoom_factors": [
       0.022,
       0.035,
