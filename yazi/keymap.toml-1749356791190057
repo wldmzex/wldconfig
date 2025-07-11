@@ -1,4 +1,4 @@
-[mgr]
+[manager]
 prepend_keymap = [
   # Movement
   { on = "n", run = "leave", desc = "Move cursor down 1 row"},
