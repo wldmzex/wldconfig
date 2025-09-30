@@ -29,6 +29,7 @@
   },
   "environment": {
     "vars": {
+      "KICAD8_3DMODEL_DIR": "/home/wldmzex/Kicad_project/kicad-packages3D",
       "KICAD9_3DMODEL_DIR": "/home/wldmzex/Kicad_project/kicad-packages3D",
       "WLDLIB": "/home/wldmzex/Kicad_project"
     }
@@ -93,6 +94,6 @@
     "pdf_viewer_name": "",
     "text_editor": "",
     "use_system_pdf_viewer": true,
-    "working_dir": "/home/wldmzex/Kicad_project/Project/bundle/bundle"
+    "working_dir": "/home/wldmzex/Kicad_project/Project/CH318_USB_ISOLATOR"
   }
 }

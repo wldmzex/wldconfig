@@ -22,6 +22,10 @@ input * {
 }
 
 
+exec_always systemctl --user import-environment DISPLAY WAYLAND_DISPLAY XDG_CURRENT_DESKTOP
+
+
+
 
 
 
@@ -221,12 +225,26 @@ bar {
 }
 
 
+#static wallpaper
 #output "*" bg ~/Pictures/wallpaper/wldIndustry.png fill
-output "*" bg ~/Pictures/wallpaper/bloody_eye_t.png fill
+#output "*" bg ~/Pictures/wallpaper/bloody_eye_t.png fill
 #output "*" bg ~/Pictures/wallpaper/wall2.gif fill
 #output "*" bg ~/Pictures/wallpaper/50DF2A87E9383EB90312EB202EEE169B.png     fill
 #output "*" bg ~/Pictures/wallpaper/dst.png     fill
 #output "*" bg ~/Pictures/wallpaper/1F55CB09C4593F33AC7466633920516F.jpg   fill
+
+
+#animed wallpaper
+exec_always swww-daemon
+
+#tux
+#exec_always swww img ~/Pictures/wallpaper/tux_pressed.gif 
+#wall3
+#exec_always swww img ~/Pictures/wallpaper/wall3.gif
+#wall1
+#exec_always swww img ~/Pictures/wallpaper/wall1.gif 
+#oct
+exec_always swww img ~/Pictures/wallpaper/oct.png
 
 #exec_always feh --bg-fill ~/Pictures/wallpaper/50DF2A87E9383EB90312EB202EEE169B.png
 #exec_always feh --bg-fill 

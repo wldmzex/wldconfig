@@ -37,4 +37,7 @@
   (lib (name "Kicad_qfp")(type "KiCad")(uri "${WLDLIB}/Lib/kicad-footprints/Package_QFP.pretty")(options "")(descr ""))
   (lib (name "Espressif")(type "KiCad")(uri "${WLDLIB}/Lib/kicad-footprints/Espressif.pretty")(options "")(descr ""))
   (lib (name "Package_DFN_QFN")(type "KiCad")(uri "${WLDLIB}/Lib/kicad-footprints/Package_DFN_QFN.pretty")(options "")(descr ""))
+  (lib (name "Kicad_USB")(type "KiCad")(uri "${WLDLIB}/Lib/kicad-footprints/Connector_USB.pretty")(options "")(descr ""))
+  (lib (name "Kicad_RJ")(type "KiCad")(uri "${WLDLIB}/Lib/kicad-footprints/Connector_RJ.pretty")(options "")(descr ""))
+  (lib (name "Kicad_Switch_THT")(type "KiCad")(uri "${WLDLIB}/Lib/kicad-footprints/Button_Switch_THT.pretty")(options "")(descr "")(disabled))
 )

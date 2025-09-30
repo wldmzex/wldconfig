@@ -28,4 +28,8 @@
   (lib (name "wldMemory")(type "KiCad")(uri "${WLDLIB}/Lib/Symbols/wldMemory.kicad_sym")(options "")(descr ""))
   (lib (name "Connector")(type "KiCad")(uri "${WLDLIB}/Lib/kicad-symbols/Connector.kicad_sym")(options "")(descr "")(disabled)(hidden))
   (lib (name "Espressif")(type "KiCad")(uri "${WLDLIB}/Lib/kicad-symbols/Espressif.kicad_sym")(options "")(descr ""))
+  (lib (name "wldMisc")(type "KiCad")(uri "${WLDLIB}/Lib/Symbols/wldMisc.kicad_sym")(options "")(descr ""))
+  (lib (name "Kicad_USB")(type "KiCad")(uri "${WLDLIB}/Lib/kicad-symbols/Interface_USB.kicad_sym")(options "")(descr ""))
+  (lib (name "Kicad_Connector")(type "KiCad")(uri "${WLDLIB}/Lib/kicad-symbols/Connector.kicad_sym")(options "")(descr ""))
+  (lib (name "Kicad_Switch")(type "KiCad")(uri "${WLDLIB}/Lib/kicad-symbols/Switch.kicad_sym")(options "")(descr "")(disabled))
 )

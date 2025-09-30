@@ -4,4 +4,5 @@
   (lib (name "MCU")(type "KiCad")(uri "${WLDLIB}/Lib/Moudules/MCU_Minium_System")(options "")(descr ""))
   (lib (name "Motor")(type "KiCad")(uri "${WLDLIB}/Lib/Moudules/Motor")(options "")(descr ""))
   (lib (name "Sensor")(type "KiCad")(uri "${WLDLIB}/Lib/Moudules/Sensor")(options "")(descr ""))
+  (lib (name "Interface")(type "KiCad")(uri "${WLDLIB}/Lib/Moudules/Interface")(options "")(descr "Interface"))
 )

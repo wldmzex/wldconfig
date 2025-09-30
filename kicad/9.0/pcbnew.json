@@ -20,7 +20,7 @@
     "net_inspector_width": -1,
     "properties_panel_width": 300,
     "properties_splitter_proportion": 0.5,
-    "right_panel_width": 220,
+    "right_panel_width": 374,
     "search_panel_dock_direction": 3,
     "search_panel_height": 110,
     "search_panel_width": 284,
@@ -60,7 +60,7 @@
     "ctrl_click_highlight": true,
     "esc_clears_net_highlight": true,
     "flip_left_right": true,
-    "magnetic_all_layers": false,
+    "magnetic_all_layers": true,
     "magnetic_graphics": true,
     "magnetic_pads": 1,
     "magnetic_tracks": 1,
@@ -144,7 +144,7 @@
       "always_show_cursor": false,
       "fullscreen_cursor": false
     },
-    "display": 1,
+    "display": 0,
     "fp_list_width": 300,
     "grid": {
       "axes_enabled": false,
@@ -291,7 +291,26 @@
     "size_x": 1569,
     "size_y": 837,
     "zoom": 1.0,
-    "zoom_factors": []
+    "zoom_factors": [
+      0.13,
+      0.22,
+      0.35,
+      0.6,
+      1.0,
+      1.5,
+      2.2,
+      3.5,
+      5.0,
+      8.0,
+      13.0,
+      20.0,
+      35.0,
+      50.0,
+      80.0,
+      130.0,
+      220.0,
+      300.0
+    ]
   },
   "footprint_wizard": {
     "cursor": {
@@ -442,7 +461,26 @@
     "pos_y": 0,
     "size_x": 1280,
     "size_y": 720,
-    "zoom_factors": []
+    "zoom_factors": [
+      0.13,
+      0.22,
+      0.35,
+      0.6,
+      1.0,
+      1.5,
+      2.2,
+      3.5,
+      5.0,
+      8.0,
+      13.0,
+      20.0,
+      35.0,
+      50.0,
+      80.0,
+      130.0,
+      220.0,
+      300.0
+    ]
   },
   "footprint_wizard_list": {
     "height": 388,
@@ -594,7 +632,7 @@
       0
     ],
     "monochrome": true,
-    "scale": 1.0752,
+    "scale": 1.0652,
     "title_block": false,
     "use_theme": false
   },
@@ -620,19 +658,19 @@
   },
   "system": {
     "file_history": [
-      "/home/wldmzex/Kicad_project/Project/bundle/bundle/bundle.kicad_pcb",
-      "/home/wldmzex/Kicad_project/Project/Setting_HandCraft.kicad_pcb",
-      "/home/wldmzex/Kicad_project/Project/Setting_JLC_4L.kicad_pcb",
-      "/home/wldmzex/Kicad_project/Project/Setting_JP.kicad_pcb",
-      "/home/wldmzex/Kicad_project/Project/bundle/stlink/stlink.kicad_pcb",
-      "/home/wldmzex/Kicad_project/Project/bundle/stepper_driver/stepper_driver.kicad_pcb",
-      "/home/wldmzex/Kicad_project/Project/bundle/wchlinkw/wchlinkw.kicad_pcb",
-      "/home/wldmzex/Kicad_project/Project/EndedProject/wchlink_wld/wchlink_wld.kicad_pcb",
-      "/home/wldmzex/Kicad_project/Project/hc_ch32_stepper_driver/hc_ch32_stepper_driver.kicad_pcb"
+      "/home/wldmzex/Kicad_project/Project/CH318_USB_ISOLATOR/CH318_USB_ISOLATOR.kicad_pcb",
+      "/home/wldmzex/Kicad_project/Project/hc_test/test.kicad_pcb",
+      "/home/wldmzex/Kicad_project/Project/wldwebctr_esp8684_V0.2/wldwebstr_esp8684_V0.2.kicad_pcb",
+      "/home/wldmzex/Kicad_project/Project/bundle_gerber_0822/bundle.kicad_pcb",
+      "/home/wldmzex/Kicad_project/Project/EndedProject/Legacy/Develop_board/esp32c2_launchpad/esp32c2_launchpad-backups/esp32c2_launchpad-2025-05-23_223427/esp32c2_launchpad.kicad_pcb",
+      "/home/wldmzex/Kicad_project/Project/EndedProject/Legacy/Develop_board/esp32c2_launchpad/esp32c2_launchpad-backups/esp32c2_launchpad-2025-06-15_224745/esp32c2_launchpad.kicad_pcb",
+      "/home/wldmzex/Kicad_project/Project/EndedProject/Legacy/Develop_board/esp32c2_launchpad/esp32c2_launchpad-backups/esp32c2_launchpad-2025-04-30_135953/esp32c2_launchpad.kicad_pcb",
+      "/home/wldmzex/Kicad_project/Project/wldwebstr_esp8684_V0.1/wldwebstr_esp8684_V0.1.kicad_pcb",
+      "/home/wldmzex/Kicad_project/Project/EndedProject/Legacy/Develop_board/esp32c2_launchpad/esp32c2_launchpad.kicad_pcb"
     ],
     "first_run_shown": false,
     "last_footprint3d_dir": "${KICAD9_3DMODEL_DIR}/Button_Switch_SMD.3dshapes",
-    "last_footprint_lib_dir": "${WLDLIB}/Lib/kicad-footprints/Package_DFN_QFN.pretty",
+    "last_footprint_lib_dir": "${WLDLIB}/Lib/kicad-footprints/Button_Switch_THT.pretty",
     "last_imperial_units": 5,
     "last_metric_units": 1,
     "max_undo_items": 0,
@@ -680,7 +718,7 @@
       "axes_enabled": false,
       "fast_grid_1": 11,
       "fast_grid_2": 22,
-      "last_size": 19,
+      "last_size": 20,
       "line_width": 1.0,
       "min_spacing": 10.0,
       "override_connected": false,
@@ -818,8 +856,8 @@
       "user_grid_y": ""
     },
     "maximized": false,
-    "mru_path": "/home/wldmzex/Kicad_project/Project/summary",
-    "perspective": "layout2|name=InfoBar;caption=;state=131454;dir=1;layer=1;row=0;pos=0;prop=100000;bestw=20;besth=30;minw=-1;minh=-1;maxw=-1;maxh=-1;floatx=-1;floaty=-1;floatw=-1;floath=-1|name=MainToolbar;caption=;state=139632;dir=1;layer=6;row=0;pos=0;prop=100000;bestw=1026;besth=34;minw=-1;minh=-1;maxw=-1;maxh=-1;floatx=-1;floaty=-1;floatw=-1;floath=-1|name=AuxToolbar;caption=;state=139644;dir=1;layer=5;row=0;pos=0;prop=100000;bestw=946;besth=38;minw=-1;minh=-1;maxw=-1;maxh=-1;floatx=-1;floaty=-1;floatw=-1;floath=-1|name=MsgPanel;caption=;state=131452;dir=3;layer=6;row=0;pos=0;prop=100000;bestw=400;besth=34;minw=-1;minh=-1;maxw=-1;maxh=-1;floatx=-1;floaty=-1;floatw=-1;floath=-1|name=OptToolbar;caption=;state=139596;dir=4;layer=3;row=0;pos=0;prop=100000;bestw=34;besth=670;minw=-1;minh=-1;maxw=-1;maxh=-1;floatx=-1;floaty=-1;floatw=-1;floath=-1|name=ToolsToolbar;caption=;state=139596;dir=2;layer=3;row=0;pos=0;prop=100000;bestw=34;besth=739;minw=-1;minh=-1;maxw=-1;maxh=-1;floatx=-1;floaty=-1;floatw=-1;floath=-1|name=LayersManager;caption=外观;state=1532;dir=2;layer=4;row=0;pos=0;prop=100000;bestw=220;besth=-1;minw=200;minh=-1;maxw=-1;maxh=-1;floatx=-1;floaty=-1;floatw=220;floath=480|name=SelectionFilter;caption=选择筛选器;state=1532;dir=2;layer=4;row=0;pos=1;prop=0;bestw=180;besth=-1;minw=180;minh=-1;maxw=-1;maxh=-1;floatx=-1;floaty=-1;floatw=180;floath=154|name=PropertiesManager;caption=属性;state=2098684;dir=4;layer=5;row=0;pos=0;prop=100000;bestw=300;besth=200;minw=240;minh=60;maxw=-1;maxh=-1;floatx=-1;floaty=-1;floatw=300;floath=200|name=DrawFrame;caption=;state=1020;dir=5;layer=0;row=0;pos=0;prop=100000;bestw=400;besth=194;minw=-1;minh=-1;maxw=-1;maxh=-1;floatx=-1;floaty=-1;floatw=-1;floath=-1|name=NetInspector;caption=网络检查;state=2098686;dir=3;layer=0;row=0;pos=0;prop=100000;bestw=300;besth=200;minw=240;minh=60;maxw=-1;maxh=-1;floatx=-1;floaty=-1;floatw=300;floath=200|name=Search;caption=搜索;state=2098686;dir=3;layer=0;row=0;pos=0;prop=100000;bestw=180;besth=100;minw=180;minh=60;maxw=-1;maxh=-1;floatx=-1;floaty=-1;floatw=480;floath=200|dock_size(1,6,0)=34|dock_size(1,5,0)=38|dock_size(3,6,0)=34|dock_size(4,3,0)=34|dock_size(2,3,0)=34|dock_size(2,4,0)=220|dock_size(4,5,0)=300|dock_size(5,0,0)=286|",
+    "mru_path": "/home/wldmzex/Kicad_project/Project/DCto4XH2.54",
+    "perspective": "layout2|name=InfoBar;caption=;state=131454;dir=1;layer=1;row=0;pos=0;prop=100000;bestw=20;besth=30;minw=-1;minh=-1;maxw=-1;maxh=-1;floatx=-1;floaty=-1;floatw=-1;floath=-1|name=MainToolbar;caption=;state=139632;dir=1;layer=6;row=0;pos=0;prop=100000;bestw=1026;besth=34;minw=-1;minh=-1;maxw=-1;maxh=-1;floatx=-1;floaty=-1;floatw=-1;floath=-1|name=AuxToolbar;caption=;state=139644;dir=1;layer=5;row=0;pos=0;prop=100000;bestw=1244;besth=38;minw=-1;minh=-1;maxw=-1;maxh=-1;floatx=-1;floaty=-1;floatw=-1;floath=-1|name=MsgPanel;caption=;state=131452;dir=3;layer=6;row=0;pos=0;prop=100000;bestw=400;besth=34;minw=-1;minh=-1;maxw=-1;maxh=-1;floatx=-1;floaty=-1;floatw=-1;floath=-1|name=OptToolbar;caption=;state=139596;dir=4;layer=3;row=0;pos=0;prop=100000;bestw=34;besth=670;minw=-1;minh=-1;maxw=-1;maxh=-1;floatx=-1;floaty=-1;floatw=-1;floath=-1|name=ToolsToolbar;caption=;state=139596;dir=2;layer=3;row=0;pos=0;prop=100000;bestw=34;besth=739;minw=-1;minh=-1;maxw=-1;maxh=-1;floatx=-1;floaty=-1;floatw=-1;floath=-1|name=LayersManager;caption=外观;state=1532;dir=2;layer=4;row=0;pos=0;prop=100000;bestw=220;besth=-1;minw=200;minh=-1;maxw=-1;maxh=-1;floatx=-1;floaty=-1;floatw=220;floath=480|name=SelectionFilter;caption=选择筛选器;state=1532;dir=2;layer=4;row=0;pos=1;prop=0;bestw=180;besth=-1;minw=180;minh=-1;maxw=-1;maxh=-1;floatx=-1;floaty=-1;floatw=180;floath=154|name=PropertiesManager;caption=属性;state=2098684;dir=4;layer=5;row=0;pos=0;prop=100000;bestw=300;besth=200;minw=240;minh=60;maxw=-1;maxh=-1;floatx=-1;floaty=-1;floatw=300;floath=200|name=DrawFrame;caption=;state=1020;dir=5;layer=0;row=0;pos=0;prop=100000;bestw=400;besth=194;minw=-1;minh=-1;maxw=-1;maxh=-1;floatx=-1;floaty=-1;floatw=-1;floath=-1|name=NetInspector;caption=网络检查;state=2098686;dir=3;layer=0;row=0;pos=0;prop=100000;bestw=300;besth=200;minw=240;minh=60;maxw=-1;maxh=-1;floatx=-1;floaty=-1;floatw=300;floath=200|name=Search;caption=搜索;state=2098686;dir=3;layer=0;row=0;pos=0;prop=100000;bestw=180;besth=100;minw=180;minh=60;maxw=-1;maxh=-1;floatx=-1;floaty=-1;floatw=480;floath=200|dock_size(1,6,0)=34|dock_size(1,5,0)=38|dock_size(3,6,0)=34|dock_size(4,3,0)=34|dock_size(2,3,0)=34|dock_size(2,4,0)=374|dock_size(4,5,0)=300|dock_size(5,0,0)=402|",
     "pos_x": 0,
     "pos_y": 0,
     "size_x": 1916,

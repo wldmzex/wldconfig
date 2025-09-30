@@ -66,25 +66,25 @@
   "system": {
     "check_for_kicad_updates": true,
     "file_history": [
-      "/home/wldmzex/Kicad_project/Project/bundle/bundle/bundle.kicad_pro",
-      "/home/wldmzex/Kicad_project/Project/bundle/stlink/stlink.kicad_pro",
-      "/home/wldmzex/Kicad_project/Project/bundle/stepper_driver/stepper_driver.kicad_pro",
-      "/home/wldmzex/Kicad_project/Project/bundle/wchlinkw/wchlinkw.kicad_pro",
-      "/home/wldmzex/Kicad_project/Project/EndedProject/wldFOC-V0.1/wldFOC-V0.1.kicad_pro",
-      "/home/wldmzex/Kicad_project/Project/EndedProject/wchlink_wld/wchlink_wld.kicad_pro",
-      "/home/wldmzex/Kicad_project/Project/EndedProject/Multply_Board_1/Multply_Board_1.kicad_pro",
-      "/home/wldmzex/Kicad_project/Project/hc_ch32_stepper_driver/hc_ch32_stepper_driver.kicad_pro",
-      "/home/wldmzex/Kicad_project/Project/wldnetctr_core/wldnetctr_core.kicad_pro"
+      "/home/wldmzex/Kicad_project/Project/CH318_USB_ISOLATOR/CH318_USB_ISOLATOR.kicad_pro",
+      "/home/wldmzex/Kicad_project/Project/wldwebctr_esp8684_V0.2/wldwebstr_esp8684_V0.2.kicad_pro",
+      "/home/wldmzex/Kicad_project/Project/wldwebstr_esp8684_V0.1/wldwebstr_esp8684_V0.1.kicad_pro",
+      "/home/wldmzex/Kicad_project/Project/EndedProject/Legacy/Develop_board/esp32c2_launchpad/esp32c2_launchpad.kicad_pro",
+      "/home/wldmzex/Kicad_project/Project/stm32_f103_toolhead/stm32_f103_toolhead.kicad_pro",
+      "/home/wldmzex/Kicad_project/reference/Stepper-motor-driver-DRV8825-board-hardware-design/CAD/V1.1.1/Stepper_driver_DRV8825.kicad_pro",
+      "/home/wldmzex/Kicad_project/Project/esp32c2_moudule_verify/esp32c2_moudule_verify.kicad_pro",
+      "/home/wldmzex/Kicad_project/Project/wchlinkw_V1/wchlinkw_V1.kicad_pro",
+      "/home/wldmzex/Kicad_project/Project/DCto4XH2.54/DCto4XH2.54.kicad_pro"
     ],
     "first_run_shown": false,
     "last_design_block_lib_dir": "${WLDLIB}/Lib/Moudules/Sensor",
     "last_imperial_units": 5,
     "last_metric_units": 1,
     "last_received_update": "",
-    "last_update_check_time": "2025-07-09T19:07:25",
+    "last_update_check_time": "2025-09-30T16:31:58",
     "max_undo_items": 0,
     "open_projects": [
-      "/home/wldmzex/Kicad_project/Project/bundle/bundle/bundle.kicad_pro"
+      "/home/wldmzex/Kicad_project/Project/CH318_USB_ISOLATOR/CH318_USB_ISOLATOR.kicad_pro"
     ],
     "show_import_issues": true,
     "units": 1
@@ -244,12 +244,31 @@
       "user_grid_y": ""
     },
     "maximized": false,
-    "mru_path": "/home/wldmzex/Kicad_project/Project/bundle/bundle/",
+    "mru_path": "/home/wldmzex/Kicad_project/Project/CH318_USB_ISOLATOR/",
     "perspective": "layout2|name=MainToolbar;caption=;state=139596;dir=4;layer=2;row=0;pos=0;prop=100000;bestw=34;besth=227;minw=-1;minh=-1;maxw=-1;maxh=-1;floatx=-1;floaty=-1;floatw=-1;floath=-1|name=ProjectTree;caption=工程文件;state=1532;dir=4;layer=1;row=0;pos=0;prop=100000;bestw=250;besth=-1;minw=250;minh=-1;maxw=-1;maxh=-1;floatx=-1;floaty=-1;floatw=-1;floath=-1|name=Editors;caption=编辑器;state=508;dir=5;layer=0;row=0;pos=0;prop=100000;bestw=700;besth=590;minw=700;minh=590;maxw=-1;maxh=-1;floatx=-1;floaty=-1;floatw=-1;floath=-1|dock_size(4,2,0)=34|dock_size(4,1,0)=250|dock_size(5,0,0)=700|",
     "pos_x": 0,
     "pos_y": 0,
     "size_x": 1916,
     "size_y": 1032,
-    "zoom_factors": []
+    "zoom_factors": [
+      0.13,
+      0.22,
+      0.35,
+      0.6,
+      1.0,
+      1.5,
+      2.2,
+      3.5,
+      5.0,
+      8.0,
+      13.0,
+      20.0,
+      35.0,
+      50.0,
+      80.0,
+      130.0,
+      220.0,
+      300.0
+    ]
   }
 }

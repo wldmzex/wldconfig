@@ -3,7 +3,7 @@ command=bash ~/.config/script/i3blocks_getcpuinfo.sh
 interval=1
 [power_profile]
 command=bash ~/.config/script/i3blocks_getpowerprofile.sh | awk '(NR==2)'
-interval=once
+interval=30
 [sys_mem_info]
 command=bash ~/.config/script/i3blocks_getmeminfo.sh 
 interval=1

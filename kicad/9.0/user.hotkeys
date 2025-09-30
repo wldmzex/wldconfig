@@ -75,7 +75,7 @@ common.Control.leftJustify
 common.Control.libraryTreeSearch	Ctrl+L	
 common.Control.magneticSnapActiveLayer	F6	
 common.Control.magneticSnapAllLayers	F7	
-common.Control.magneticSnapToggle	Shift+S	
+common.Control.magneticSnapToggle		
 common.Control.metricUnits		
 common.Control.mils		
 common.Control.new	Ctrl+N	
@@ -223,7 +223,9 @@ eeschema.EditorControl.lineModeFree
 eeschema.EditorControl.lineModeNext	Shift+Space	
 eeschema.EditorControl.lineModeOrthonal		
 eeschema.EditorControl.markSimExclusions		
+eeschema.EditorControl.nextNetItem	Tab	
 eeschema.EditorControl.nextUnit		
+eeschema.EditorControl.previousNetItem	Shift+Tab	
 eeschema.EditorControl.previousUnit		
 eeschema.EditorControl.remapSymbols		
 eeschema.EditorControl.repairSchematic		
@@ -266,7 +268,7 @@ eeschema.InteractiveDrawing.drawBezier
 eeschema.InteractiveDrawing.drawCircle		
 eeschema.InteractiveDrawing.drawRectangle		
 eeschema.InteractiveDrawing.drawRuleArea		
-eeschema.InteractiveDrawing.drawSheet	S	
+eeschema.InteractiveDrawing.drawSheet	Shift+S	
 eeschema.InteractiveDrawing.drawSheetFromDesignBlock		
 eeschema.InteractiveDrawing.drawSheetFromFile		
 eeschema.InteractiveDrawing.drawTable		
@@ -290,7 +292,7 @@ eeschema.InteractiveDrawing.syncAllSheetsPins
 eeschema.InteractiveDrawing.syncSheetPins		
 eeschema.InteractiveDrawingLineWireBus.drawBuses	B	
 eeschema.InteractiveDrawingLineWireBus.drawLines	I	
-eeschema.InteractiveDrawingLineWireBus.drawWires	W	
+eeschema.InteractiveDrawingLineWireBus.drawWires	Ctrl+W	
 eeschema.InteractiveDrawingLineWireBus.switchPosture	/	
 eeschema.InteractiveDrawingLineWireBus.undoLastSegment	Back	
 eeschema.InteractiveDrawingLineWireBus.unfoldBus	C	
@@ -360,7 +362,7 @@ eeschema.Simulation.newAnalysisTab	Ctrl+N
 eeschema.Simulation.openWorkbook	Ctrl+O	
 eeschema.Simulation.probe	P	
 eeschema.Simulation.runSimulation	R	
-eeschema.Simulation.saveWorkbook	Ctrl+S	
+eeschema.Simulation.saveWorkbook		
 eeschema.Simulation.saveWorkbookAs	Ctrl+Shift+S	
 eeschema.Simulation.showNetlist		
 eeschema.Simulation.simAnalysisProperties		
@@ -605,7 +607,7 @@ pcbnew.GlobalEdit.changeFootprint
 pcbnew.GlobalEdit.changeFootprints		
 pcbnew.GlobalEdit.cleanupGraphics		
 pcbnew.GlobalEdit.cleanupTracksAndVias		
-pcbnew.GlobalEdit.editTeardrops		
+pcbnew.GlobalEdit.editTeardrops	Shift+T	
 pcbnew.GlobalEdit.editTextAndGraphics		
 pcbnew.GlobalEdit.editTracksAndVias		
 pcbnew.GlobalEdit.globalDeletions		
