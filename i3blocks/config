@@ -1,14 +1,17 @@
 [power_profile]
-command=bash ~/.config/script/i3blocks_getcpuinfo.sh
-interval=1
-[power_profile]
 command=bash ~/.config/script/i3blocks_getpowerprofile.sh | awk '(NR==2)'
 interval=30
+[cpu_profile]
+command=bash ~/.config/script/i3blocks_getcpuinfo.sh
+interval=1
 [sys_mem_info]
 command=bash ~/.config/script/i3blocks_getmeminfo.sh 
 interval=1
 [time]
-command=date +%T
+command=date +'[%a] %d/%b/%Y %T'
+interval=1
+[time]
+command=TZ='Asia/Shanghai' date +'[%a] %d/%b/%Y %T'
 interval=1
 [battery]
 command=bash ~/.config/script/i3blocks_getbatterypersent.sh

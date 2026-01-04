@@ -107,6 +107,7 @@ common.Control.showContextMenu
 common.Control.showDatasheet	D	
 common.Control.showFootprintBrowser		
 common.Control.showFootprintEditor		
+common.Control.showLibraryTable		
 common.Control.showLibraryTree		
 common.Control.showProjectManager		
 common.Control.showProperties	Shift+Y	
@@ -151,7 +152,7 @@ common.Interactive.cut	Ctrl+X
 common.Interactive.cycleArcEditMode	Ctrl+Space	
 common.Interactive.delete	Del	Shift+R
 common.Interactive.deleteTool		
-common.Interactive.duplicate	Ctrl+D	
+common.Interactive.duplicate		
 common.Interactive.find	Ctrl+F	
 common.Interactive.findAndReplace	Ctrl+Alt+F	
 common.Interactive.findNext	F3	
@@ -473,7 +474,7 @@ pcbnew.AlignAndDistribute.distributeHorizontallyCenters
 pcbnew.AlignAndDistribute.distributeHorizontallyGaps		
 pcbnew.AlignAndDistribute.distributeVerticallyCenters		
 pcbnew.AlignAndDistribute.distributeVerticallyGaps		
-pcbnew.Array.createArray	Ctrl+T	
+pcbnew.Array.createArray		
 pcbnew.Autoplacer.autoplaceOffboard		
 pcbnew.Autoplacer.autoplaceSelected		
 pcbnew.Control.DdAppendBoard		
@@ -655,7 +656,7 @@ pcbnew.InteractiveDrawing.zoneCutout	Shift+C
 pcbnew.InteractiveEdit.FindMove	T	
 pcbnew.InteractiveEdit.chamferLines		
 pcbnew.InteractiveEdit.changeTrackWidth		
-pcbnew.InteractiveEdit.deleteFull	Shift+Del	
+pcbnew.InteractiveEdit.deleteFull	Ctrl+D	
 pcbnew.InteractiveEdit.dogboneCorners		
 pcbnew.InteractiveEdit.duplicateIncrementPads	Ctrl+Shift+D	
 pcbnew.InteractiveEdit.extendLines		

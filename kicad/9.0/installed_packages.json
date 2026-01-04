@@ -31,6 +31,16 @@
                 "type": "plugin",
                 "versions": [
                     {
+                        "download_sha256": "1600133bafa55fe422e830ca00003030e2a828ec5dc41cbcf77a4059d0f100c1",
+                        "download_size": 19685,
+                        "download_url": "https://github.com/30350n/pcb2blender/releases/download/v2.17.1-k9.0-b4.2lts/pcb2blender_exporter_v2-17-1_k9-0.zip",
+                        "install_size": 40162,
+                        "kicad_version": "9.0",
+                        "kicad_version_max": "9.0",
+                        "status": "stable",
+                        "version": "2.17.1"
+                    },
+                    {
                         "download_sha256": "cc4a8e1735f99c50eee67307153921d8cf683622f0e1f3e46abf2fa49821e257",
                         "download_size": 19637,
                         "download_url": "https://github.com/30350n/pcb2blender/releases/download/v2.17-k9.0-b4.2lts/pcb2blender_exporter_v2-17_k9-0.zip",
