@@ -17,3 +17,5 @@
 !/i3blocks/
 !/chromium-flags.conf
 
+
+!/nvim/**
